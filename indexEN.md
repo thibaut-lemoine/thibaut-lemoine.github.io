@@ -17,7 +17,7 @@ Noncommutative probability, two-dimensional Yang-Mills theory, stochastic proces
 ### Sorbonne Université
 
 - 2019-2020 :
-  - Tutor in Probability (L3) - one will find [here](https://thibaut-lemoine.github.io/Synthese_Cours_290.pdf) (in French) a small summary of the course
+  - Tutor in Probability (L3) - one will find [here](/Synthese_Cours_290.pdf) (in French) a small summary of the course
   - Tutor in Mathematics for Licence 1 (L1)
 - 2016-2019 :
   - Tutor in C++ for Mathematics (M1)
