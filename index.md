@@ -13,7 +13,7 @@ Probabilités non commutatives, théorie de Yang-Mills en deux dimensions, proce
 ### Sorbonne Université
 
 - 2019-2020 :
-  - TD de probabilités (L3) - on trouvera [ici](https://thibaut-lemoine.github.io/Synthese_Cours_290.pdf) une fiche synthèse des notions abordées en cours
+  - TD de probabilités (L3) - on trouvera [ici](/Synthese_Cours_290.pdf) une fiche synthèse des notions abordées en cours
   - TD de mathématiques pour la Licence 1 (L1)
 - 2016-2019 :
   - TP de C++ pour les mathématiques (M1)
