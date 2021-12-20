@@ -27,12 +27,12 @@ Noncommutative probability, two-dimensional Yang-Mills theory, stochastic proces
 
 ## Thèse
 
-Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des aspects asymptotiques de la théorie de Yang--Mills en deux dimensions. Plus précisément, considérant la mesure de Yang--Mills sur une surface compacte orientable de genre supérieur ou égal à 1, ou une surface compacte non orientable de genre supérieur ou égal à 2, j'ai démontré la convergence de la fonction de partition de cette mesure avec pour groupe de structure U(N) ou SU(N), en utilisant le développement du noyau de la chaleur sur la base des caractères irréductibles. Afin d'établir cette convergence, j'ai mis en lumière une classe de plus hauts poids, déjà évoquée dans certains travaux de Gross & Taylor (94) que j'ai nommé les "plus hauts poids presque plats" (almost flat highest weights en anglais, ou AFHW) qui permettent d'obtenir une approximation fine de l'opérateur laplacien sur U(N) ou SU(N) quand N tend vers l'infini. J'ai par la suite utilisé ces plus hauts poids presque plats pour calculer la limite de boucles de Wilson pour des lacets simples contractiles sur la surface sous-jacente.
+My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to study asymptotic aspects of two-dimensional Yang-Mills theory. More precisely, considering the Yang--Mills measure on a compact orientable surface of genus greater or equal to 1, or a compact nonorientable surface of genus greater or equal to 2, I proved the convergence of its partition function with structure group U(N) or SU(N), using the character expansion of the heat kernel. In order to establish this convergence, I highlighted a class of highest weights that already appeared in works from Gross and Taylor (94) that I named 'almost flat highest weights', or AFHW, and that help getting a fine approximation of the Laplace operator on U(N) or SU(N) when N goes to infinity. I have later used these almost flat highest weights to compute the large N limit of Wilson loops for contractible simple loops on the underlying surface.
 
-## Articles publiés
+## Publications
 
 Thibaut Lemoine (2021). [Large N behaviour of the two-dimensional Yang–Mills partition function](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664). Combinatorics, Probability and Computing, 1-22. doi:10.1017/S0963548321000262
 
-## Me contacter
+## Contact
 
-Mon bureau à l'université de Strasbourg est le P113 (bâtiment de l'UFR de mathématiques). Mail : thibaut.lemoine(AT)unistra.fr
+My office at Université de Strasbourg is P113 (UFR in Mathematics building). Mail: thibaut.lemoine(AT)unistra.fr
