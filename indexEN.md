@@ -29,7 +29,7 @@ Noncommutative probability, two-dimensional Yang-Mills theory, stochastic proces
 - 2019-2020 :
   - Tutor in Integration and Probability (1st Year)
 
-## Thèse
+## PhD Thesis
 
 My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to study asymptotic aspects of two-dimensional Yang-Mills theory. More precisely, considering the Yang--Mills measure on a compact orientable surface of genus greater or equal to 1, or a compact nonorientable surface of genus greater or equal to 2, I proved the convergence of its partition function with structure group U(N) or SU(N), using the character expansion of the heat kernel. In order to establish this convergence, I highlighted a class of highest weights that already appeared in works from Gross and Taylor (94) that I named 'almost flat highest weights', or AFHW, and that help getting a fine approximation of the Laplace operator on U(N) or SU(N) when N goes to infinity. I have later used these almost flat highest weights to compute the large N limit of Wilson loops for contractible simple loops on the underlying surface.
 
