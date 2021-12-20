@@ -10,13 +10,20 @@ Probabilités non commutatives, théorie de Yang-Mills en deux dimensions, proce
 
 ## Enseignements
 
+### Sorbonne Université
+
 - 2019-2020 :
-  - TD de Probabilités (L3 et ISUP1) - on trouvera [ici](https://thibaut-lemoine.github.io/Synthese_Cours_290.pdf) une fiche synthèse des notions abordées en cours
-  - TD de Mathématiques pour la Licence 1 (L1)
+  - TD de probabilités (L3) - on trouvera [ici](https://thibaut-lemoine.github.io/Synthese_Cours_290.pdf) une fiche synthèse des notions abordées en cours
+  - TD de mathématiques pour la Licence 1 (L1)
 - 2016-2019 :
-  - TP de C++ pour les Mathématiques (M1)
+  - TP de C++ pour les mathématiques (M1)
 - 2016-2018 :
-  - TD d'Analyse vectorielle et Intégrales multiples (L2)
+  - TD d'analyse vectorielle et intégrales multiples (L2)
+
+### ISUP
+
+- 2019-2020 :
+  - TD d'intégration et probabilités (1re année)
 
 ## Thèse
 
