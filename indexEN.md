@@ -1,3 +1,7 @@
+---
+permalink: /indexEN.html
+---
+
 # Personal webpage of Thibaut LEMOINE
 
 ## Status
