@@ -1,4 +1,6 @@
-# Page Personnelle de Thibaut Lemoine ([EN](https://thibaut-lemoine.github.io/indexEN.html))
+# Page Personnelle de Thibaut Lemoine 
+
+([English Version](https://thibaut-lemoine.github.io/indexEN.html))
 
 ## Parcours
 
