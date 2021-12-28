@@ -1,3 +1,8 @@
+---
+permalink: /index.html
+tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation theory, mathematical physics, probability]
+---
+
 # Page Personnelle de Thibaut Lemoine 
 
 ([English Version](https://thibaut-lemoine.github.io/indexEN.html))
