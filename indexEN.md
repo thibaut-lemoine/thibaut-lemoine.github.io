@@ -2,7 +2,7 @@
 permalink: /indexEN.html
 ---
 
-# Personal webpage of Thibaut LEMOINE
+# Personal webpage of Thibaut Lemoine
 
 ([French Version](https://thibaut-lemoine.github.io/index.html))
 
