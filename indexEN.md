@@ -41,4 +41,4 @@ Thibaut Lemoine (2021). [Large N behaviour of the two-dimensional Yang–Mills p
 
 ## Contact
 
-My office at Université de Strasbourg is P113 (UFR in Mathematics building). Mail: thibaut.lemoine(AT)unistra.fr
+My office at Université de Strasbourg is P113 (UFR in math building). Mail: thibaut.lemoine(AT)unistra.fr
