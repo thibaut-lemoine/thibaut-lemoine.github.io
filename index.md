@@ -49,6 +49,7 @@ Thibaut Lemoine (2021). [Large N behaviour of the two-dimensional Yang–Mills p
 ## Prépublications
 
 Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
+
 Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). arXiv preprint.
 
 ## Me contacter
