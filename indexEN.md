@@ -39,6 +39,11 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 Thibaut Lemoine (2021). [Large N behaviour of the two-dimensional Yang–Mills partition function](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664). Combinatorics, Probability and Computing, 1-22. doi:10.1017/S0963548321000262
 
+## Preprints
+
+Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
+Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). arXiv preprint.
+
 ## Contact
 
 My office at Université de Strasbourg is P113 (UFR in math building). Mail: thibaut.lemoine(AT)unistra.fr
