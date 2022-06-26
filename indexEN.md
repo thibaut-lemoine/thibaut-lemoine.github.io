@@ -44,6 +44,10 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 - Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
 - Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). arXiv preprint.
 
+## Other activities
+
+- Organisation of the conference QHETPS in Strasbourg from june 20th to 24th, 2022, and creation of its [website](https://irma.math.unistra.fr/QHETPS/index.html)
+
 ## Contact
 
 My office at Université de Strasbourg is P113 (UFR in math building). Mail: thibaut.lemoine(AT)unistra.fr
