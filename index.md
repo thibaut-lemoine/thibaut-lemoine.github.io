@@ -51,6 +51,10 @@ Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des asp
 - Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
 - Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). arXiv preprint.
 
+## Autres activités
+
+- Organisation de la conférence QHETPS à Strasbourg du 20 au 24 juin 2022 et création du [site web](https://irma.math.unistra.fr/QHETPS/index.html) de l'événement
+
 ## Me contacter
 
 Mon bureau à l'université de Strasbourg est le P113 (UFR de maths). Mail : thibaut.lemoine(AT)unistra.fr
