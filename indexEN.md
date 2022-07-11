@@ -8,7 +8,7 @@ permalink: /indexEN.html
 
 ## Status
 
-I am currently a postdoctoral researcher at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg. I am in the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. Beforehand, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy.
+I am currently a postdoctoral researcher at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg. I am in the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. Beforehand, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy. A pdf version of my resume is available [here](/CV_EN.pdf).
 
 ## Research Interests
 
