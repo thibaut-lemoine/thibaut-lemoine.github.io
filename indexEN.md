@@ -8,11 +8,11 @@ permalink: /indexEN.html
 
 ## Status
 
-I am currently a postdoctoral researcher at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg. I am in the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. Beforehand, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy. A pdf version of my resume is available [here](/CV_EN.pdf).
+I am currently a postdoctoral researcher at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg. I am in the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. My aim is to precise the probabilistic setting of quantum Hall effect on complex manifolds. Beforehand, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy. A pdf version of my resume is available [here](/CV_EN.pdf).
 
 ## Research Interests
 
-Noncommutative probability, two-dimensional Yang-Mills theory, stochastic processes with values in Lie groups and algebras, random matrices, asymptotic representation theory
+Noncommutative probability, two-dimensional Yang-Mills theory, stochastic processes with values in Lie groups and algebras, random matrices, asymptotic representation theory, determinantal point processes on complex manifolds
 
 ## Teaching
 
