@@ -15,7 +15,7 @@ title: Page personnelle de Thibaut Lemoine
 
 ## Parcours
 
-Je suis actuellement postdoctorant à l'Institut de Recherche Mathématique Avancée (IRMA) de l'Université de Strasbourg, rattaché au projet "Geometry of quantum Hall states" de l'USIAS dirigé par Semyon Klevtsov. Auparavant, j'ai effectué ma thèse au Laboratoire de Probabilités, Statistique et Modélisation (LPSM) de Sorbonne Université, sous la direction de Thierry Lévy.
+Je suis actuellement postdoctorant à l'Institut de Recherche Mathématique Avancée (IRMA) de l'Université de Strasbourg, rattaché au projet "Geometry of quantum Hall states" de l'USIAS dirigé par Semyon Klevtsov. Auparavant, j'ai effectué ma thèse au Laboratoire de Probabilités, Statistique et Modélisation (LPSM) de Sorbonne Université, sous la direction de Thierry Lévy. Une version pdf de mon CV est disponible sur [ce lien](/CV_FR.pdf)
 
 ## Thèmes de recherche
 
