@@ -8,7 +8,7 @@ permalink: /indexEN.html
 
 ## Status
 
-I am currently a postdoctoral researcher at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg. I am in the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. My aim is to precise the probabilistic setting of quantum Hall effect on complex manifolds. Beforehand, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy. A pdf version of my resume is available [here](/CV_EN.pdf).
+I am currently a postdoctoral researcher at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL) under the responsibility of Rémi Bardenet. Beforehand, I worked from 2020 to 2022 at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg, for the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. My aim is to precise the probabilistic setting of quantum Hall effect on complex manifolds. From 2016 to 2020, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy. A pdf version of my resume is available [here](/CV_EN.pdf).
 
 ## Research Interests
 
@@ -51,4 +51,4 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 ## Contact
 
-My office at Université de Strasbourg is P113 (UFR in math building). Mail: thibaut.lemoine(AT)unistra.fr
+Mail: thibaut.lemoine(AT)edhec.com
