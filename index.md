@@ -58,4 +58,4 @@ Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des asp
 
 ## Me contacter
 
-Mon bureau à l'université de Strasbourg est le P113 (UFR de maths). Mail : thibaut.lemoine(AT)unistra.fr
+Mail : thibaut.lemoine(AT)edhec.com
