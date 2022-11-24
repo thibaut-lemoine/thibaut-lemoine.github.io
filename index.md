@@ -15,7 +15,7 @@ title: Page personnelle de Thibaut Lemoine
 
 ## Parcours
 
-Je suis actuellement postdoctorant à l'Institut de Recherche Mathématique Avancée (IRMA) de l'Université de Strasbourg, rattaché au projet "Geometry of quantum Hall states" de l'USIAS dirigé par Semyon Klevtsov. Dans ce cadre, mon objectif est de préciser le cadre probabiliste de l'effet Hall quantique sur des variétés complexes. Auparavant, j'ai effectué ma thèse au Laboratoire de Probabilités, Statistique et Modélisation (LPSM) de Sorbonne Université, sous la direction de Thierry Lévy. Une version pdf de mon CV est disponible sur [ce lien](/CV_FR.pdf).
+Je suis actuellement postdoctorant au Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL) sous la responsabilité de Rémi Bardenet. Auparavant, j'ai été postdoctorant de 2020 à 2022 à l'Institut de Recherche Mathématique Avancée (IRMA) de l'Université de Strasbourg, rattaché au projet "Geometry of quantum Hall states" de l'USIAS dirigé par Semyon Klevtsov. Entre 2016 et 2020, j'ai effectué ma thèse au Laboratoire de Probabilités, Statistique et Modélisation (LPSM) de Sorbonne Université, sous la direction de Thierry Lévy. Une version pdf de mon CV est disponible sur [ce lien](/CV_FR.pdf).
 
 ## Thèmes de recherche
 
