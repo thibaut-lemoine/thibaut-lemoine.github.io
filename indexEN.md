@@ -51,4 +51,5 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 ## Contact
 
-Mail: thibaut.lemoine(AT)edhec.com
+Office : Bâtiment ESPRIT, Avenue Paul Langevin, 59650 Villeneuve-d'Ascq (France), office S1.58
+Mail : thibaut.lemoine(AT)univ-lille.fr
