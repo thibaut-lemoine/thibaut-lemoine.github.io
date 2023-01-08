@@ -58,4 +58,5 @@ Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des asp
 
 ## Me contacter
 
-Mail : thibaut.lemoine(AT)edhec.com
+Bureau : Bâtiment ESPRIT, Avenue Paul Langevin, 59650 Villeneuve-d'Ascq, bureau S1.58
+Mail : thibaut.lemoine(AT)univ-lille.fr
