@@ -48,7 +48,8 @@ Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des asp
 
 ## Prépublications
 
-- Thibaut Lemoine (2022). [Universality of determinantal point processes associated with Bergman kernels](https://arxiv.org/abs/2211.06955). arXiv preprint.
+- Thibaut Lemoine (2023). [Almost flat highest weights and application to Wilson loops on compact surfaces](https://arxiv.org/abs/2303.11286), soumis.
+- Thibaut Lemoine (2022). [Universality of determinantal point processes associated with Bergman kernels](https://arxiv.org/abs/2211.06955), soumis.
 - Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
 - Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). arXiv preprint. À paraître dans Probability and Mathematical Physics.
 
