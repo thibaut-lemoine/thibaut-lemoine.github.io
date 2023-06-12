@@ -48,7 +48,7 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 ## Other activities
 
-- Organisation of the conference QHETPS in Strasbourg from june 20th to 24th, 2022, and creation of its [website](https://irma.math.unistra.fr/QHETPS/index.html)
+- Organisation of the conference QHETPS in Strasbourg from june 20th to 24th, 2022, and creation of its [website](https://qhetps.pages.math.unistra.fr/)
 
 ## Contact
 
