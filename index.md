@@ -55,7 +55,7 @@ Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des asp
 
 ## Autres activités
 
-- Organisation de la conférence QHETPS à Strasbourg du 20 au 24 juin 2022 et création du [site web](https://irma.math.unistra.fr/QHETPS/index.html) de l'événement
+- Organisation de la conférence QHETPS à Strasbourg du 20 au 24 juin 2022 et création du [site web]([https://irma.math.unistra.fr/QHETPS/index.html](https://qhetps.pages.math.unistra.fr/)) de l'événement
 
 ## Me contacter
 
