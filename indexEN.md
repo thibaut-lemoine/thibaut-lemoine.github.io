@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher at Centre de Recherche en Informatique,
 
 ## Research Interests
 
-Noncommutative probability, two-dimensional Yang-Mills theory, stochastic processes with values in Lie groups and algebras, random matrices, asymptotic representation theory, determinantal point processes on complex manifolds
+I am interested in the interactions between probability and geometry/algebra, mainly through the prism of physical models. Among the subjects I have worked on, there are the two-dimensional Yang-Mills theory, the quantum Hall effect on complex manifolds, determinantal point processes, Brownian motions on Lie groups, asymptotic representation theory, free probability theory. Among the subjects I am interested in but are still work in progress, there are the random Kähler metrics, the quantum information theory, and conditioned stochastic processes on Lie groups/algebras.
 
 ## Teaching
 
