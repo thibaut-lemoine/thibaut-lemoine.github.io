@@ -19,7 +19,7 @@ Je suis actuellement postdoctorant au Centre de Recherche en Informatique, Signa
 
 ## Thèmes de recherche
 
-Probabilités non commutatives, théorie de Yang-Mills en deux dimensions, processus à valeurs dans des groupes et algèbres de Lie, matrices aléatoires, théorie asymptotique des représentations, processus déterminantaux sur des variétés complexes
+Je m'intéresse aux interactions entre probabilités et géométrie/algèbre, principalement à travers des modèles physiques. Parmi les thèmes que j'ai déjà abordés, il y a la théorie de Yang-Mills en deux dimensions, l'effet Hall quantique sur des variétés complexes, les processus ponctuels déterminantaux, les mouvements browniens sur les groupes de Lie, la théorie asymptotique des représentations, les probabilités libres. Parmi les sujets qui m'intéressent et pour lesquels je n'ai pas encore produit de résultats, il y a notamment les métriques de Kähler aléatoires, la théorie quantique de l'information, et les processus conditionnés sur des groupes/algèbres de Lie.
 
 ## Enseignements
 
