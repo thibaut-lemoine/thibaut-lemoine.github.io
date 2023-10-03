@@ -48,7 +48,7 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 ## Other activities
 
-- Organisation of a group work on gauge theory and random surfaces. See the corresponding page (in French)
+- Organisation of a group work on gauge theory and random surfaces. See the corresponding [page](/gt_2023.html) (in French)
 - Organisation of the conference QHETPS in Strasbourg from june 20th to 24th, 2022, and creation of its [website](https://qhetps.pages.math.unistra.fr/)
 
 ## Contact
