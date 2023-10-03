@@ -56,7 +56,7 @@ Ma [thèse](https://tel.archives-ouvertes.fr/tel-03096870v1) portait sur des asp
 
 ## Autres activités
 
-- Organisation d'un groupe de travail sur le thème "théorie de jauge et surfaces aléatoires". Voir la page du GT.
+- Organisation d'un groupe de travail sur le thème "théorie de jauge et surfaces aléatoires". Voir la [page](/gt_2023.html) du GT.
 - Organisation de la conférence QHETPS à Strasbourg du 20 au 24 juin 2022 et création du [site web](https://qhetps.pages.math.unistra.fr/) de l'événement
 
 ## Me contacter
