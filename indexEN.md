@@ -38,7 +38,7 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 ## Publications
 
 - Thibaut Lemoine (2021). [Large N behaviour of the two-dimensional Yang–Mills partition function](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664). Combinatorics, Probability and Computing, 1-22. doi:10.1017/S0963548321000262
-- - Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). To appear in Probability and Mathematical Physics.
+- - Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). To appear in [Probability and Mathematical Physics](https://msp.org/soon/coming.php?jpath=pmp).
 
 ## Preprints
 
@@ -46,12 +46,12 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 - Thibaut Lemoine (2022). [Universality of determinantal point processes associated with Bergman kernels](https://arxiv.org/abs/2211.06955), submitted.
 - Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
 
-
 ## Other activities
 
+- Organisation of a group work on gauge theory and random surfaces. See the corresponding page (in French)
 - Organisation of the conference QHETPS in Strasbourg from june 20th to 24th, 2022, and creation of its [website](https://qhetps.pages.math.unistra.fr/)
 
 ## Contact
 
 Office : Bâtiment ESPRIT, Avenue Paul Langevin, 59650 Villeneuve-d'Ascq (France), office S1.58
-Mail : thibaut.lemoine(AT)univ-lille.fr
+Mail : thibaut.lemoine((AT))univ-lille.fr
