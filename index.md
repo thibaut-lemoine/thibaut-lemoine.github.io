@@ -7,12 +7,6 @@ title: Page personnelle de Thibaut Lemoine
   <meta name="description" content="Page personnelle de Thibaut Lemoine">
   <meta name="keywords" content="Thibaut Lemoine, math, mathematics, maths, Yang-Mills, representation theory, mathematical physics, probability">
   <meta name="author" content="Thibaut Lemoine">
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript"
-  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 </head>
   
 # Page personnelle de Thibaut Lemoine 
@@ -30,7 +24,7 @@ Mots-clés : matrices aléatoires, processus ponctuels, partitions aléatoires, 
 Mes travaux se rangent principalement dans le domaine de la physique mathématique, qui consiste à développer des outils mathématiques rigoureux pour des modèles physiques. Pour ce faire, je puise dans tous types de théories mathématiques : probabilités, algèbre, géométrie, combinatoire, ou encore analyse.
 
 #### Théorie de Yang–Mills en deux dimensions
-Je m'intéresse aux aspects asymptotiques de la mesure de Yang–Mills sur des surfaces compactes de genre $g\geq 1$ avec pour groupe de structure un groupe matriciel compact de taille $N$, lorsque $N$ tend vers l'infini. Il s'agit d'un modèle non trivial de matrices aléatoires, qui fait intervenir des couplages de mouvements browniens sur le groupe. Je compte également étudier les interactions entre ce modèle et celles des surfaces aléatoires.
+Je m'intéresse aux aspects asymptotiques de la mesure de Yang–Mills sur des surfaces compactes avec pour groupe de structure un groupe matriciel compact de grande taille. Il s'agit d'un modèle non trivial de matrices aléatoires, qui fait intervenir des couplages de mouvements browniens sur le groupe. Je compte également étudier les interactions entre ce modèle et celles des surfaces aléatoires.
 
 #### Processus déterminantaux et effet Hall quantique
 
