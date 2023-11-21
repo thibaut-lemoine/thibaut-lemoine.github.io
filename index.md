@@ -48,7 +48,7 @@ Les processus déterminantaux sur les variétés complexes, initialement étudi�
 
 ## Enseignements
 
-### Sorbonne Université
+#### Sorbonne Université
 
 - 2019-2020 :
   - TD de probabilités (L3) - on trouvera [ici](/Synthese_Cours_290.pdf) une fiche synthèse des notions abordées en cours
@@ -58,7 +58,7 @@ Les processus déterminantaux sur les variétés complexes, initialement étudi�
 - 2016-2018 :
   - TD d'analyse vectorielle et intégrales multiples (L2)
 
-### ISUP
+#### ISUP
 
 - 2019-2020 :
   - TD d'intégration et probabilités (1re année)
