@@ -8,15 +8,29 @@ permalink: /indexEN.html
 
 ## Status
 
-I am currently a postdoctoral researcher at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL) under the responsibility of Rémi Bardenet. Beforehand, I worked from 2020 to 2022 at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg, for the project "Geometry of quantum Hall states" of USIAS directed by Semyon Klevtsov. From 2016 to 2020, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of Thierry Lévy. A pdf version of my resume is available [here](/CV_EN.pdf).
+I am currently a postdoctoral researcher at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL) under the responsibility of [Rémi Bardenet](https://rbardenet.github.io/). Beforehand, I worked from 2020 to 2022 at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg, for the project "Geometry of quantum Hall states" of USIAS directed by [Semyon Klevtsov](https://irma.math.unistra.fr/~klevtsov/). From 2016 to 2020, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of [Thierry Lévy](https://www.lpsm.paris/users/levyt/index). A pdf version of my resume is available [here](/CV_EN.pdf).
 
 ## Research Interests
 
-I am interested in the interactions between probability and geometry/algebra, mainly through the prism of physical models. Among the subjects I have worked on, there are the two-dimensional Yang-Mills theory, the quantum Hall effect on complex manifolds, determinantal point processes, Brownian motions on Lie groups, asymptotic representation theory, free probability theory. Among the subjects I am interested in but are still work in progress, there are the random Kähler metrics, the quantum information theory, and conditioned stochastic processes on Lie groups/algebras.
+Keywords: random matrices, point processes, random partitions, Yang–Mills theory, quantum Hall effect, numerical integration.
+
+My work primarily falls within the field of mathematical physics, which involves developing rigorous mathematical tools for physical models. To achieve this, I draw from various mathematical theories: probability, algebra, geometry, combinatorics, and analysis.
+
+#### Two-dimensional Yang–Mills theory
+
+I focus on the asymptotic aspects of the Yang–Mills measure on compact surfaces of genus $g\geq 1$ with a compact matrix group of size $N$ as the structure group, as $N$ tends to infinity. This involves a nontrivial model of random matrices that incorporates couplings of Brownian motions on the group. I also plan to study the interactions between this model and random surfaces.
+
+#### Determinantal point processes and quantum Hall effect
+
+The integer quantum Hall effect corresponds to a model of free fermions subjected to a confining potential. When these fermions live on a complex variety, the model can be expressed as a determinantal point process whose kernel is the Bergman kernel associated with a line bundle. I investigate the limiting behavior of the model as the number of particles tends to infinity. I also hope to find a probabilistic model of the fractional quantum Hall effect.
+
+#### Determinantal point processes and numerical integration
+
+Determinantal processes on complex manifolds, initially studied for the quantum Hall effect, prove to be a valuable tool for performing Monte Carlo methods. The theoretical tools are well-known and rely on existing results from complex geometry and pluripotential theory, but practical implementation remains a major challenge.
 
 ## Teaching
 
-### Sorbonne Université
+#### Sorbonne Université
 
 - 2019-2020 :
   - Tutor in Probability (L3) - one will find [here](/Synthese_Cours_290.pdf) (in French) a small summary of the course
@@ -26,7 +40,7 @@ I am interested in the interactions between probability and geometry/algebra, ma
 - 2016-2018 :
   - Tutor of Multivariable analysis (L2)
 
-### ISUP
+#### ISUP
 
 - 2019-2020 :
   - Tutor in Integration and Probability (1st Year)
@@ -37,14 +51,14 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 ## Publications
 
+- Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). To appear in [Probability and Mathematical Physics](https://msp.org/soon/coming.php?jpath=pmp).
 - Thibaut Lemoine (2021). [Large N behaviour of the two-dimensional Yang–Mills partition function](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664). Combinatorics, Probability and Computing, 1-22. doi:10.1017/S0963548321000262
-- - Antoine Dahlqvist, Thibaut Lemoine (2022) [Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces](https://arxiv.org/abs/2201.05882). To appear in [Probability and Mathematical Physics](https://msp.org/soon/coming.php?jpath=pmp).
 
 ## Preprints
 
-- Thibaut Lemoine (2023). [Almost flat highest weights and application to Wilson loops on compact surfaces](https://arxiv.org/abs/2303.11286), submitted.
-- Thibaut Lemoine (2022). [Universality of determinantal point processes associated with Bergman kernels](https://arxiv.org/abs/2211.06955), submitted.
-- Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886). arXiv preprint.
+- Thibaut Lemoine (2023). [Almost flat highest weights and application to Wilson loops on compact surfaces](https://arxiv.org/abs/2303.11286)
+- Thibaut Lemoine (2022). [Determinantal point processes associated with Bergman kernels: construction and limit theorems](https://arxiv.org/abs/2211.06955)
+- Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886)
 
 ## Other activities
 
