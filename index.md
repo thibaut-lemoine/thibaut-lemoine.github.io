@@ -24,7 +24,7 @@ Mots-clés : matrices aléatoires, processus ponctuels, partitions aléatoires, 
 Mes travaux se rangent principalement dans le domaine de la physique mathématique, qui consiste à développer des outils mathématiques rigoureux pour des modèles physiques. Pour ce faire, je puise dans tous types de théories mathématiques : probabilités, algèbre, géométrie, combinatoire, ou encore analyse.
 
 #### Théorie de Yang–Mills en deux dimensions
-Je m'intéresse aux aspects asymptotiques de la mesure de Yang–Mills sur des surfaces compactes avec pour groupe de structure un groupe matriciel compact de grande taille. Il s'agit d'un modèle non trivial de matrices aléatoires, qui fait intervenir des couplages de mouvements browniens sur le groupe. Je compte également étudier les interactions entre ce modèle et celles des surfaces aléatoires.
+Je m'intéresse aux aspects asymptotiques de la mesure de Yang–Mills sur des surfaces compactes avec pour groupe de structure un groupe matriciel compact de grande taille. Il s'agit d'un modèle non trivial de matrices aléatoires, qui fait intervenir des couplages de mouvements browniens sur le groupe. Je compte également étudier les interactions entre ce modèle et celui des surfaces aléatoires.
 
 #### Processus déterminantaux et effet Hall quantique
 
