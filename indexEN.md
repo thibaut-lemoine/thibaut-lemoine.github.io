@@ -18,7 +18,7 @@ My work primarily falls within the field of mathematical physics, which involves
 
 #### Two-dimensional Yang–Mills theory
 
-I focus on the asymptotic aspects of the Yang–Mills measure on compact surfaces with a compact matrix group of large rank as the structure group. This involves a nontrivial model of random matrices that incorporates couplings of Brownian motions on the group. I also plan to study the interactions between this model and random surfaces.
+I focus on the asymptotic aspects of the Yang–Mills measure on compact surfaces with a compact matrix group of large rank as the structure group. This involves a nontrivial model of random matrices that incorporates couplings of Brownian motions on the group. I am also currently studying the interactions between this model and random surfaces.
 
 #### Determinantal point processes and quantum Hall effect
 
