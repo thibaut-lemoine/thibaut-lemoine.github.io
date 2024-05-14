@@ -43,7 +43,7 @@ Les processus déterminantaux sur les variétés complexes, initialement étudi�
 ## Prépublications
 
 - Thibaut Lemoine, Rémi Bardenet (2024). Monte Carlo methods on compact complex manifolds using Bergman kernels
-- Thibaut Lemoine, Mylène Maïda (2024). [Gaussian measure on the dual of $\mathrm{U}(N)$, random partitions, and topological expansion of the partition function](https://hal.science/hal-04572877)
+- Thibaut Lemoine, Mylène Maïda (2024). [Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function](https://hal.science/hal-04572877)
 - Thibaut Lemoine (2023). [Almost flat highest weights and application to Wilson loops on compact surfaces](https://arxiv.org/abs/2303.11286)
 - Thibaut Lemoine (2022). [Determinantal point processes associated with Bergman kernels: construction and limit theorems](https://arxiv.org/abs/2211.06955)
 - Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886)
