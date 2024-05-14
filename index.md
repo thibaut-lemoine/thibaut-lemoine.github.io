@@ -24,7 +24,8 @@ Mots-clés : matrices aléatoires, processus ponctuels, partitions aléatoires, 
 Mes travaux se rangent principalement dans le domaine de la physique mathématique, qui consiste à développer des outils mathématiques rigoureux pour des modèles physiques. Pour ce faire, je puise dans tous types de théories mathématiques : probabilités, algèbre, géométrie, combinatoire, ou encore analyse.
 
 #### Théorie de Yang–Mills en deux dimensions
-Je m'intéresse aux aspects asymptotiques de la mesure de Yang–Mills sur des surfaces compactes avec pour groupe de structure un groupe matriciel compact de grande taille. Il s'agit d'un modèle non trivial de matrices aléatoires, qui fait intervenir des couplages de mouvements browniens sur le groupe. Je compte également étudier les interactions entre ce modèle et celui des surfaces aléatoires.
+
+Je m'intéresse aux aspects asymptotiques de la mesure de Yang–Mills sur des surfaces compactes avec pour groupe de structure un groupe matriciel compact de grande taille. Il s'agit d'un modèle non trivial de matrices aléatoires, qui fait intervenir des couplages de mouvements browniens sur le groupe. J'étudie également les interactions entre ce modèle et celui des surfaces aléatoires.
 
 #### Processus déterminantaux et effet Hall quantique
 
@@ -41,6 +42,8 @@ Les processus déterminantaux sur les variétés complexes, initialement étudi�
 
 ## Prépublications
 
+- Thibaut Lemoine, Rémi Bardenet (2024). Monte Carlo methods on compact complex manifolds using Bergman kernels
+- Thibaut Lemoine, Mylène Maïda (2024). [Gaussian measure on the dual of $\mathrm{U}(N)$, random partitions, and topological expansion of the partition function](https://hal.science/hal-04572877)
 - Thibaut Lemoine (2023). [Almost flat highest weights and application to Wilson loops on compact surfaces](https://arxiv.org/abs/2303.11286)
 - Thibaut Lemoine (2022). [Determinantal point processes associated with Bergman kernels: construction and limit theorems](https://arxiv.org/abs/2211.06955)
 - Antoine Dahlqvist, Thibaut Lemoine (2022). [Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field](https://arxiv.org/abs/2201.05886)
@@ -56,7 +59,7 @@ Les processus déterminantaux sur les variétés complexes, initialement étudi�
 - 2016-2019 :
   - TP de C++ pour les mathématiques (M1)
 - 2016-2018 :
-  - TD d'analyse vectorielle et intégrales multiples (L2)
+  - TD d'analyse vectorielle et intégrales multiples (L2, parcours PEIP de Polytech' Sorbonne)
 
 #### ISUP
 
