@@ -56,7 +56,7 @@ My [PhD thesis](https://tel.archives-ouvertes.fr/tel-03096870v1) was devoted to 
 
 ## Preprints
 
-- Thibaut Lemoine, Rémi Bardenet (2024). [Monte Carlo methods on compact complex manifolds using Bergman kernels](https://hal.science/hal-04575374)
+- Thibaut Lemoine, Rémi Bardenet (2024). [Monte Carlo methods on compact complex manifolds using Bergman kernels](https://arxiv.org/abs/2405.09203)
 - Thibaut Lemoine, Mylène Maïda (2024). [Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function](https://arxiv.org/abs/2405.08393)
 - Thibaut Lemoine (2023). [Almost flat highest weights and application to Wilson loops on compact surfaces](https://arxiv.org/abs/2303.11286)
 - Thibaut Lemoine (2022). [Determinantal point processes associated with Bergman kernels: construction and limit theorems](https://arxiv.org/abs/2211.06955)
