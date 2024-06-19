@@ -9,6 +9,7 @@ body {
 }
 p {
 	padding: 5;
+	margin: 5;
 }
 .content {
 	width: 80%;
