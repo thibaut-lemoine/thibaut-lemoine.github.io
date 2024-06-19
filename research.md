@@ -22,6 +22,7 @@ Keywords: random matrices, point processes, random partitions, Yang–Mills theo
 
 My work primarily falls within the field of mathematical physics, which involves developing rigorous mathematical tools for physical models. To achieve this, I draw from various mathematical theories: probability, algebra, geometry, combinatorics, and analysis.
 
+<!--
 <h3>Two-dimensional Yang–Mills theory</h3>
 
 I focus on the asymptotic aspects of the Yang–Mills measure on compact surfaces with a compact matrix group of large rank as the structure group. This involves a nontrivial model of random matrices that incorporates couplings of Brownian motions on the group. I am also currently studying the interactions between this model and random surfaces.
@@ -33,7 +34,7 @@ The integer quantum Hall effect corresponds to a model of free fermions subjecte
 <h3>Determinantal point processes and numerical integration</h3>
 
 Determinantal processes on complex manifolds, initially studied for the quantum Hall effect, prove to be a valuable tool for performing Monte Carlo methods. The theoretical tools are well-known and rely on existing results from complex geometry and pluripotential theory, but practical implementation remains a major challenge.
-
+-->
 
 <h2>Publications</h2> 
 
