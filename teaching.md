@@ -14,7 +14,7 @@ permalink: /teaching.html
 
 <body>
 
-## Teaching
+<h2>Teaching</h2>
 
 #### Ecole Normale Supérieure - PSL
 
