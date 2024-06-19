@@ -34,12 +34,14 @@
   </ul>
 </ul>
 
+<ul>
 <li>2016-2019 :</li>
   <ul>
   <li>Tutor in C++ for Mathematics (M1)</li>
   </ul>
 </ul>
 
+<ul>
 <li>2016-2018 :</li>
   <ul>
   <li>Tutor of Multivariable analysis (L2, Polytech' Sorbonne)</li>
@@ -48,10 +50,9 @@
 
 <h3>ISUP</h3>
 
+<ul>
 <li>2019-2020 :</li>
   <ul>
   <li>Tutor in Integration and Probability (1st Year)</li>
   </ul>
 </ul>
-- 2019-2020 :
-  - 
