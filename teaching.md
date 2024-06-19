@@ -4,7 +4,7 @@
 </head>
 
 <div class="banner">
-    <a href="/home.html">Home</a>
+    <a href="/index.html">Home</a>
     <a href="/research.html">Research</a>
     <a href="/teaching.html">Teaching</a>
 </div>
