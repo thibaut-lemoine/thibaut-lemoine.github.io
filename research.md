@@ -51,7 +51,7 @@ Determinantal processes on complex manifolds, initially studied for the quantum 
 
 <ul>
   <li>
-    Thibaut Lemoine, Rémi Bardenet (2024). <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a
+    Thibaut Lemoine, Rémi Bardenet (2024). <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
   </li>
   <li>
     Thibaut Lemoine, Mylène Maïda (2024). <a href="https://arxiv.org/abs/2405.08393">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>
