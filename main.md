@@ -7,6 +7,22 @@ title: personal webpage of Thibaut Lemoine
   <meta name="description" content="Personal webpage of Thibaut Lemoine">
   <meta name="keywords" content="Thibaut Lemoine, math, mathematics, maths, Yang-Mills, representation theory, mathematical physics, probability">
   <meta name="author" content="Thibaut Lemoine">
+  <style>
+        .banner {
+            background-color: #f8f9fa;
+            padding: 10px 0;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .banner a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #007bff;
+        }
+        .banner a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 
 <div class="banner">
