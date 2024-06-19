@@ -14,8 +14,6 @@ permalink: /teaching.html
 
 <body>
 
-<div class="content">
-
 ## Teaching
 
 #### Ecole Normale Supérieure - PSL
@@ -38,5 +36,3 @@ permalink: /teaching.html
 
 - 2019-2020 :
   - Tutor in Integration and Probability (1st Year)
-
-</div>
