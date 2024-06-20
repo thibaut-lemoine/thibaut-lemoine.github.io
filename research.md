@@ -40,10 +40,10 @@ Determinantal processes on complex manifolds, initially studied for the quantum 
 
 <ul>
   <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. Probability and Mathematical Physics, No. 4, 849–890. doi:10.2140/pmp.2023.4.849
+    Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. Probability and Mathematical Physics, No. 4, 849–890.
   </li>
   <li>
-    Thibaut Lemoine (2021). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. Combinatorics, Probability and Computing, 1-22. doi:10.1017/S0963548321000262
+    Thibaut Lemoine (2021). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. Combinatorics, Probability and Computing, 1-22.
   </li>
 </ul>
 
