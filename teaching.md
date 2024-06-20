@@ -1,3 +1,7 @@
+---
+permalink: /teaching.html  
+---
+
 <head>
   <meta name="author" content="Thibaut Lemoine">
   <link href="style.css" rel="stylesheet">
