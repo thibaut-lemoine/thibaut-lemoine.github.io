@@ -11,6 +11,8 @@
 
 <body>
 
+<div class="content">
+
 <h2>Teaching</h2>
 
 <!--
@@ -56,3 +58,5 @@
   <li>Tutor in Integration and Probability (1st Year)</li>
   </ul>
 </ul>
+
+</div
