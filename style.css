@@ -38,7 +38,7 @@ body {
 	text-decoration: none;
 	color: #ffffff;
 	font-weight: bold;
-	font-size: 1.2em;
+	font-size: 2em;
 	transition: color 0.3s, transform 0.3s;
 }
 .banner a:hover {
