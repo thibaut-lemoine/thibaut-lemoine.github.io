@@ -33,6 +33,7 @@ permalink: /teaching.html
 
 <h3>Sorbonne Université</h3>
 
+<ul>
 <li>2019-2020 :</li>
   <ul>
   <li>Tutor in Probability (L3) - one will find <a href="/Synthese_Cours_290.pdf">here</a> (in French) a small summary of the course</li>
@@ -63,4 +64,4 @@ permalink: /teaching.html
   </ul>
 </ul>
 
-</div
+</div>
