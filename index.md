@@ -1,8 +1,3 @@
----
-permalink: /index.html
-tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation theory, mathematical physics, probability]
-title: Personal Webpage of Thibaut Lemoine  
----
 <head>
   <meta name="description" content="Personal webpage of Thibaut Lemoine">
   <meta name="keywords" content="Thibaut Lemoine, math, mathematics, maths, Yang-Mills, representation theory, mathematical physics, probability">
@@ -15,6 +10,12 @@ title: Personal Webpage of Thibaut Lemoine
     <a href="/research.html">Research</a>
     <a href="/teaching.html">Teaching</a>
 </div>
+
+---
+permalink: /index.html
+tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation theory, mathematical physics, probability]
+title: Personal Webpage of Thibaut Lemoine  
+---
 
 <body>
 
