@@ -63,7 +63,7 @@ Determinantal processes on complex manifolds, initially studied for the quantum 
     Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes associated with Bergman kernels: construction and limit theorems</a>
   </li>
   <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>
+    Antoine Dahlqvist, Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>. Accepted in Forum of Mathematics, Sigma.
   </li>
 </ul>
 
