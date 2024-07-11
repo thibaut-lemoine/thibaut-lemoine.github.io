@@ -9,6 +9,10 @@ permalink: /research.html
   <meta http-equiv='pragma' content='no-cache'>
 </head>
 
+<div class="content">
+<h1>Personal Webpage of Thibaut Lemoine</h1>
+</div>
+
 <div class="banner">
     <a href="/index.html">Home</a>
     <a href="/research.html">Research</a>
