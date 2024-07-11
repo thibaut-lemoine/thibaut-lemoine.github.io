@@ -24,7 +24,7 @@ title: Personal Webpage of Thibaut Lemoine
 
 <div class="content">
 
-<h1>Personal Webpage of Thibaut Lemoine</h1>
+<h2>Personal Webpage of Thibaut Lemoine</h2>
 
 <h3>About Me</h3>
 
