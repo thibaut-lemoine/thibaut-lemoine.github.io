@@ -14,6 +14,10 @@ title: Personal Webpage of Thibaut Lemoine
 </head>
 
 <div class="banner">
+<h1>Personal Webpage of Thibaut Lemoine</h1>
+</div>
+
+<div class="banner">
     <a href="/index.html">Home</a>
     <a href="/research.html">Research</a>
     <a href="/teaching.html">Teaching</a>
@@ -22,8 +26,6 @@ title: Personal Webpage of Thibaut Lemoine
 <body>
 
 <div class="content">
-
-<h1>Personal Webpage of Thibaut Lemoine</h1>
 
 <h2>About Me</h2>
 
