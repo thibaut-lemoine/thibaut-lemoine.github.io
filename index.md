@@ -26,13 +26,13 @@ title: Personal Webpage of Thibaut Lemoine
 
 <h1>Personal Webpage of Thibaut Lemoine</h1>
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 <p>
   I am currently a postdoctoral researcher at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL) under the responsibility of <a href="https://rbardenet.github.io/">Rémi Bardenet</a>. As of October, 2024, I will be a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, for the chair of Spectral Geometry of <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>. Beforehand, I worked from 2020 to 2022 at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg, for the project "Geometry of quantum Hall states" of USIAS directed by <a href="https://irma.math.unistra.fr/~klevtsov/">Semyon Klevtsov</a>. From 2016 to 2020, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of <a href="https://www.lpsm.paris/users/levyt/index">Thierry Lévy</a>. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
 </p>
 
-<h2>Upcoming Events</h2>
+<h3>Upcoming Events</h3>
 
 <ul>
   <li>
@@ -43,7 +43,7 @@ title: Personal Webpage of Thibaut Lemoine
   </li>
 </ul>
 
-<h2>Past Activities</h2>
+<h3>Past Activities</h3>
 
 <ul>
   <li>
@@ -54,7 +54,7 @@ title: Personal Webpage of Thibaut Lemoine
   </li>
 </ul>
 
-<h2>Contact</h2>
+<h3>Contact</h3>
 
 <div class="contact">
 <ul>
