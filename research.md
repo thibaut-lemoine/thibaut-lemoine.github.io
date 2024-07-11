@@ -20,8 +20,6 @@ permalink: /research.html
 
 <div class="content">
 
-<h1>Personal Webpage of Thibaut Lemoine</h1>
-
 <h2>Research</h2>
 
 <h3>Interests</h3>
