@@ -17,8 +17,6 @@ permalink: /teaching.html
 
 <div class="content">
 
-<h1>Personal Webpage of Thibaut Lemoine</h1>
-
 <h2>Teaching</h2>
 
 <!--
