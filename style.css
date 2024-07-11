@@ -4,12 +4,12 @@ body {
 	line-height: 1.6;
 	margin: 0;
 	padding: 0;
+	width: 80%;
 	background-color: #f4f4f4;
 	background-image: url("/pexels-enginakyurt-2092075.jpg")
 	color: #333333;
 }
 .content {
-	width: 80%;
 	max-width: 1000px;
 	margin: 0 auto;
 	background: #fff;
@@ -27,7 +27,6 @@ body {
 	color: #2980b9;
 }
 .banner {
-	width: 80%;
 	background: #483d8b;
 	padding: 15px 0;
 	text-align: center;
