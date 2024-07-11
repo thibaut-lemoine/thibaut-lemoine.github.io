@@ -21,25 +21,11 @@ permalink: /research.html
 
 <h2>Research</h2>
 
-Keywords: random matrices, point processes, random partitions, Yang–Mills theory, quantum Hall effect, numerical integration.
+<h3>Interests</h3>
 
-My work primarily falls within the field of mathematical physics, which involves developing rigorous mathematical tools for physical models. To achieve this, I draw from various mathematical theories: probability, algebra, geometry, combinatorics, and analysis.
+Two-dimensional gauge theory, random surfaces, integrable probability, determinantal point processes, random matrices, enumerative combinatorics
 
-<!--
-<h3>Two-dimensional Yang–Mills theory</h3>
-
-I focus on the asymptotic aspects of the Yang–Mills measure on compact surfaces with a compact matrix group of large rank as the structure group. This involves a nontrivial model of random matrices that incorporates couplings of Brownian motions on the group. I am also currently studying the interactions between this model and random surfaces.
-
-<h3>Determinantal point processes and quantum Hall effect</h3>
-
-The integer quantum Hall effect corresponds to a model of free fermions subjected to a confining potential. When these fermions live on a complex variety, the model can be expressed as a determinantal point process whose kernel is the Bergman kernel associated with a line bundle. I investigate the limiting behavior of the model as the number of particles tends to infinity. I also hope to find a probabilistic model of the fractional quantum Hall effect.
-
-<h3>Determinantal point processes and numerical integration</h3>
-
-Determinantal processes on complex manifolds, initially studied for the quantum Hall effect, prove to be a valuable tool for performing Monte Carlo methods. The theoretical tools are well-known and rely on existing results from complex geometry and pluripotential theory, but practical implementation remains a major challenge.
--->
-
-<h2>Publications</h2> 
+<h3>Publications</h3> 
 
 <ul>
   <li>
@@ -50,7 +36,7 @@ Determinantal processes on complex manifolds, initially studied for the quantum 
   </li>
 </ul>
 
-<h2>Preprints</h2>
+<h3>Preprints</h3>
 
 <ul>
   <li>
@@ -70,10 +56,10 @@ Determinantal processes on complex manifolds, initially studied for the quantum 
   </li>
 </ul>
 
-<h2>PhD Thesis</h2>
+<h3>PhD Thesis</h3>
 
 <p>
-  My <a href="https://tel.archives-ouvertes.fr/tel-03096870v1">PhD thesis</a> was devoted to study asymptotic aspects of two-dimensional Yang–Mills theory. More precisely, considering the Yang–Mills measure on a compact orientable surface of genus greater or equal to 1, or a compact non-orientable surface of genus greater or equal to 2, I proved the convergence of its partition function with structure group U(N) or SU(N), using the character expansion of the heat kernel. In order to establish this convergence, I highlighted a class of highest weights that already appeared in works from Gross and Taylor (94) that I named 'almost flat highest weights', or AFHW, and that help getting a fine approximation of the Laplace operator on U(N) or SU(N) when N goes to infinity. I have later used these almost flat highest weights to compute the large N limit of Wilson loops for contractible simple loops on the underlying surface.  
+  Thibaut Lemoine (2020). <a href="https://tel.archives-ouvertes.fr/tel-03096870v1">Théorie asymptotique des représentations et applications à la théorie de Yang-Mills</a>, <b>Sorbonne Université</b>.
 </p>
 
 </div>
