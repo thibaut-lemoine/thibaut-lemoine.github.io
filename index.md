@@ -13,7 +13,7 @@ title: Personal Webpage of Thibaut Lemoine
   <meta http-equiv='pragma' content='no-cache'>
 </head>
 
-<div class="banner">
+<div class="content">
 <h1>Personal Webpage of Thibaut Lemoine</h1>
 </div>
 
