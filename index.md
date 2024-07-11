@@ -13,9 +13,6 @@ title: Personal Webpage of Thibaut Lemoine
   <meta http-equiv='pragma' content='no-cache'>
 </head>
 
-<div class="content">
-<h1>Personal Webpage of Thibaut Lemoine</h1>
-</div>
 
 <div class="banner">
     <a href="/index.html">Home</a>
@@ -26,6 +23,8 @@ title: Personal Webpage of Thibaut Lemoine
 <body>
 
 <div class="content">
+
+<h1>Personal Webpage of Thibaut Lemoine</h1>
 
 <h2>About Me</h2>
 
