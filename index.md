@@ -8,6 +8,9 @@ title: Personal Webpage of Thibaut Lemoine
   <meta name="keywords" content="Thibaut Lemoine, math, mathematics, maths, Yang-Mills, representation theory, mathematical physics, probability">
   <meta name="author" content="Thibaut Lemoine">
   <link href="style.css" rel="stylesheet">
+  <meta http-equiv='cache-control' content='no-cache'> 
+  <meta http-equiv='expires' content='0'> 
+  <meta http-equiv='pragma' content='no-cache'>
 </head>
 
 <div class="banner">
