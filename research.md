@@ -32,7 +32,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
     Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. <b>Probability and Mathematical Physics</b>, No. 4, 849–890.
   </li>
   <li>
-    Thibaut Lemoine (2021). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, 1-22.
+    Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165
   </li>
 </ul>
 
