@@ -38,7 +38,7 @@ title: Personal Webpage of Thibaut Lemoine
    July 2024: <a href="https://icmp2024.org/index.html">International Congress of Mathematical Physics</a>, University of Strasbourg. Contributed talk for the thematic session "Probability and Random Structures" 
   </li>
   <li>
-    November 2024: <a href="https://conferences.cirm-math.fr/3074.html">Workshop "Random hyperbolic surfaces and random graphs", CIRM, Marseille.</a>
+    November 2024: <a href="https://conferences.cirm-math.fr/3074.html">Workshop "Random hyperbolic surfaces and random graphs"</a>, CIRM, Marseille.
   </li>
   <li>
    January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. TBA. 
