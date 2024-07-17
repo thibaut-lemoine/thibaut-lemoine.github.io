@@ -4,7 +4,6 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 title: Personal Webpage of Thibaut Lemoine  
 ---
 <head>
-  <meta name="description" content="Personal webpage of Thibaut Lemoine">
   <meta name="keywords" content="Thibaut Lemoine, math, mathematics, maths, Yang-Mills, representation theory, mathematical physics, probability">
   <meta name="author" content="Thibaut Lemoine">
   <link href="style.css" rel="stylesheet">
@@ -37,6 +36,9 @@ title: Personal Webpage of Thibaut Lemoine
 <ul>
   <li>
    July 2024: <a href="https://icmp2024.org/index.html">International Congress of Mathematical Physics</a>, University of Strasbourg. Contributed talk for the thematic session "Probability and Random Structures" 
+  </li>
+  <li>
+    November 2024: <a href="https://conferences.cirm-math.fr/3074.html">Workshop "Random hyperbolic surfaces and random graphs", CIRM, Marseille.</a>
   </li>
   <li>
    January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. TBA. 
