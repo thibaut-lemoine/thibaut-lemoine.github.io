@@ -1,7 +1,6 @@
 ---
 permalink: /index.html
-tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation theory, mathematical physics, probability]
-title: Personal Webpage of Thibaut Lemoine  
+tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation theory, mathematical physics, probability] 
 ---
 <head>
   <meta name="keywords" content="Thibaut Lemoine, math, mathematics, maths, Yang-Mills, representation theory, mathematical physics, probability">
