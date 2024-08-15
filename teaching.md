@@ -19,17 +19,15 @@ permalink: /teaching.html
 
 <h2>Teaching</h2>
 
-<!--
 <h3>Ecole Normale Supérieure - PSL</h3>
 
 <ul>
 <li>2024-2025 :</li>
   <ul>
-  <li>Tutor for the course "Graphes et surfaces aléatoires" at Collège de France</li>
-  <li>Lecturer for the course "Construction et étude asymptotique de la mesure de Yang-Mills en deux dimensions" (M1)</li>
+  <li>Tutor for the course <a href="https://www.math.ens.psl.eu/formations/analyse-des-edp/">"Spectre des surfaces hyperboliques aléatoires"</a> (M1) at Collège de France</li>
+  <li>Lecturer for the course <a href="https://www.math.ens.psl.eu/formations/construction-et-etude-asymptotique-de-la-mesure-de-yang-mills-en-deux-dimensions/">"Construction et étude asymptotique de la mesure de Yang-Mills en deux dimensions"</a> (M1)</li>
   </ul>
 </ul>
--->
 
 <h3>Sorbonne Université</h3>
 
