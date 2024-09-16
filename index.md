@@ -27,8 +27,22 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 <h3>About Me</h3>
 
 <p>
-I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, for the chair of Spectral Geometry of <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>. Previously, I have been a postdoctoral researcher at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL) from 2022 to 2024 under the responsibility of <a href="https://rbardenet.github.io/">Rémi Bardenet</a>. Beforehand, I worked from 2020 to 2022 at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg, for the project "Geometry of quantum Hall states" of USIAS directed by <a href="https://irma.math.unistra.fr/~klevtsov/">Semyon Klevtsov</a>. From 2016 to 2020, I was a PhD student in Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université, under the direction of <a href="https://www.lpsm.paris/users/levyt/index">Thierry Lévy</a>. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
+I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, for the chair of Spectral Geometry of <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
 </p>
+
+<h3>Previous positions</h3>
+
+<ul>
+  <li>
+   2022-2024: Postdoc at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL). Supervisor: <a href="https://rbardenet.github.io/">Rémi Bardenet</a>.
+  </li>
+  <li>
+   2020-2022: Postdoc at Institut de Recherche Mathématique Avancée (IRMA) of Université de Strasbourg. Supervisor: <a href="https://irma.math.unistra.fr/~klevtsov/">Semyon Klevtsov</a>.
+  </li>
+  <li>
+    2016-2020: PhD at Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université. Supervisor: <a href="https://www.lpsm.paris/users/levyt/index">Thierry Lévy</a>.
+  </li>
+</ul>
 
 <h3>Upcoming Events</h3>
 
