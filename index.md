@@ -74,7 +74,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 <div class="contact">
 <ul>
   <li>
-    Office: TBA.
+    Office: Collège de France - Site d'Ulm, Bureau 111, 3, rue d'Ulm, 75005 Paris
   </li>
   <li>
     Email: thibaut.lemoine((AT))univ-lille.fr
