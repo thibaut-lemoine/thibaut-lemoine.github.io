@@ -54,7 +54,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
    January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. TBA. 
   </li>
   <li>
-    January 2025: Co-organisation du colloque <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> au Collège de France.
+    January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
   </li>
 </ul>
 
