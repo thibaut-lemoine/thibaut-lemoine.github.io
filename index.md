@@ -48,13 +48,13 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-   October 2024: <a href="https://conferences.cirm-math.fr/3052.html">Conference on "Algebraic aspects of random matrices"</a>, CIRM, Marseille. Talk on unitary integrals and random ramified coverings.
-  </li>
-  <li>
     November 2024: <a href="https://conferences.cirm-math.fr/3074.html">Workshop on "Random hyperbolic surfaces and random graphs"</a>, CIRM, Marseille.
   </li>
   <li>
    January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. TBA. 
+  </li>
+  <li>
+    January 2025: Co-organisation du colloque <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> au Collège de France.
   </li>
 </ul>
 
