@@ -25,11 +25,7 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 <h2>TD du cours "Spectre des surfaces aléatoires"</h2>
 
 <p>
-Cette page contient les informations concernant les travaux dirigés assurés en complément du cours du Collège de France de Nalini Anantharaman sur l'année 2024-2025, "spectre des surfaces aléatoires".
-Les TD sont principalement adressés aux étudiants de 2e année de l'ENS-PSL, mais également ouverts aux étudiants de 1re année de l'ENS-PSL et des étudiants du M2 "mathématiques fondamentales" de l'Université Paris-Centre,
-dans la limite des places disponibles. Les TD se tiendront le vendredi de 15h30 à 17h30 au Collège de France, site Ulm (3, rue d'Ulm, 75005 Paris). <b>Pour des raisons de sécurité, l'accès au bâtiment se fait uniquement sur invitation en ma présence,
-donc il faut impérativement que les élèves souhaitant participer aux TD me le fassent savoir.</b> Une liste a été établie au cours du premier cours magistral (le 6 novembre), donc ceux ne s'étant pas inscrits doivent
-me contacter par email.
+Cette page contient les informations concernant les travaux dirigés assurés en complément du cours du Collège de France de Nalini Anantharaman sur l'année 2024-2025, "spectre des surfaces aléatoires". Les TD sont principalement adressés aux étudiants de 2e année de l'ENS-PSL, mais également ouverts aux étudiants de 1re année de l'ENS-PSL et des étudiants du M2 "mathématiques fondamentales" partagé entre Sorbonne Université, l'Université de Paris et l'Université Sorbonne Paris-Nord, dans la limite des places disponibles. Les TD se tiendront le vendredi de 15h30 à 17h30 au Collège de France, site Ulm (3, rue d'Ulm, 75005 Paris). <b>Pour des raisons de sécurité, l'accès au bâtiment se fait uniquement sur demande, donc il faut impérativement que les élèves souhaitant participer aux TD me le fassent savoir.</b> Une liste a été établie au cours du premier cours magistral (le 6 novembre), donc ceux ne s'étant pas inscrits doivent me contacter par email.
 </p>
 
 <h3>Evaluation (2a ENS-PSL)</h3>
