@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: /spectre2024.html
 tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation theory, mathematical physics, probability] 
 ---
 <head>
