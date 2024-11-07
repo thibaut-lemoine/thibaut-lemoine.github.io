@@ -41,9 +41,7 @@ L'évaluation aura lieu durant le second semestre, à l'issue des cours et des T
 <h3>Feuilles d'exercices</h3>
 
 <ul>
-  <li>TD 1: 8 novembre 2024: Enoncé, Solution</li>
-  <li>TD 2: 15 novembre 2024: Enoncé, Solutions</li>
-  <li>TD 3: 22 novembre 2024: Enoncé, Solutions</li>
+  <li>TD 1: 8 novembre 2024: Sujet, Corrigé</li>
 </ul>
 
 </div>
