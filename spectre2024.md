@@ -34,14 +34,29 @@ Cette page contient les informations concernant les travaux dirigés assurés en
 L'évaluation aura lieu durant le second semestre, à l'issue des cours et des TD, et se fera sous la forme d'une présentation d'un article de recherche. Je donnerai davantage de détails en TD et par email.
 </p>
 
+<h3>Notes de cours</h3>
+
+<p>
+À la demande de certains élèves, je mets à disposition les notes de cours (manuscrites) prises par mes soins durant les cours magistraux. Ces notes n'engagent que moi et pas la professeure responsable du cours.
+</p>
+
+<ul>
+  <li>Cours 1 - 6 novembre 2024 : <a href="/TD2024/cours 1.pdf">Notes</a></li>
+  <li>Cours 2 - 13 novembre 2024 : <a href="/TD2024/Cours 2.pdf">Notes</a></li>
+  <li>Cours 3 - 20 novembre 2024 : <a href="/TD2024/Cours 3.pdf">Notes</a></li>
+  <li>/!\ Attention, pas de cours le 27 novembre !</li>
+</ul>
+
 <h3>Feuilles d'exercices</h3>
 
 <ul>
-  <li>TD 1: 8 novembre 2024: <a href="/TD2024/TD 1.pdf">Sujet</a>, <a href="/TD2024/TD 1 - solution.pdf">Corrigé</a></li>
-  <li>TD 2: 15 novembre 2024: <a href="/TD2024/TD 2.pdf">Sujet</a>, Corrigé</li>
-  <li>TD 3: 22 novembre 2024: Sujet, Corrigé</li>
+  <li>TD 1 - 8 novembre 2024 : <a href="/TD2024/TD 1.pdf">Sujet</a>, <a href="/TD2024/TD 1 - solution.pdf">Corrigé</a></li>
+  <li>TD 2 - 15 novembre 2024 : <a href="/TD2024/TD 2.pdf">Sujet</a>, Corrigé</li>
+  <li>TD 3 - 22 novembre 2024 : Sujet, Corrigé</li>
   <li>/!\ Attention, pas de TD le 29 novembre !</li>
 </ul>
+
+
 
 </div>
 
