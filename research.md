@@ -30,10 +30,13 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. <b>Probability and Mathematical Physics</b>, No. 4, 849–890.
+    Antoine Dahlqvist, Thibaut Lemoine (2024). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>. Accepted in <b>Forum of Mathematics, Sigma</b>. Preprint: <a href="https://arxiv.org/abs/2201.05886">https://arxiv.org/abs/2201.05886</a>
   </li>
   <li>
-    Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165
+    Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. <b>Probability and Mathematical Physics</b>, No. 4, 849–890. Preprint: <a href="https://arxiv.org/abs/2201.05882">https://arxiv.org/abs/2201.05882</a>
+  </li>
+  <li>
+    Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165. Preprint: <a href="https://arxiv.org/abs/1911.07010">https://arxiv.org/abs/1911.07010</a>
   </li>
 </ul>
 
@@ -51,9 +54,6 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
   </li>
   <li>
     Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes associated with Bergman kernels: construction and limit theorems</a>
-  </li>
-  <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>. Accepted in <b>Forum of Mathematics, Sigma</b>.
   </li>
 </ul>
 
