@@ -55,6 +55,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
   <li>
     28th-29th- January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
   </li>
+  
 </ul>
 
 <h3>Past Activities</h3>
