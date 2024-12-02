@@ -51,7 +51,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
     19th December 2024: Probability seminar, LMA, Université de Poitiers. Talk on "how to improve numerical integration by using determinantal point processes".
   </li>
   <li>
-    23rd January 2025: Probability and Statistics seminar, IECL, Université de Nancy. TBA.
+    23rd January 2025: <a href="https://dev-iecl.univ-lorraine.fr/evenements/seminaires/seminaire-probabilites-et-statistique/">Probability and Statistics seminar</a>, IECL, Université de Nancy. TBA.
   </li>
   <li>
    27th January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. TBA. 
