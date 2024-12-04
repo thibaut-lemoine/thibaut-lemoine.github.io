@@ -60,6 +60,9 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
     28th-29th January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
   </li>
   <li>
+    3rd February 2025: <a href="https://louisioos.github.io/liens.html">Seminar of geometry and dynamics</a>, AGM, CY Cergy-Paris Université. TBA.
+  </li>
+  <li>
     31st March 2025: <a href="https://indico.math.cnrs.fr/event/13237/">PIICQ monthly seminar</a> (remote). TBA.
   </li>
   
