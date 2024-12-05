@@ -48,6 +48,9 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
+    12th December 2024: Talk at LMBA, Université Bretagne Sud. TBA.
+  </li>
+  <li>
     19th December 2024: Probability seminar, LMA, Université de Poitiers. Talk on "how to improve numerical integration by using determinantal point processes".
   </li>
   <li>
