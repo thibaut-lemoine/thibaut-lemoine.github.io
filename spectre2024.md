@@ -45,6 +45,7 @@ L'évaluation aura lieu durant le second semestre, à l'issue des cours et des T
   <li>Cours 2 - 13 novembre 2024 : <a href="/TD2024/Cours 2.pdf">Notes</a></li>
   <li>Cours 3 - 20 novembre 2024 : <a href="/TD2024/Cours 3.pdf">Notes</a></li>
   <li>/!\ Attention, pas de cours le 27 novembre !</li>
+  <li>Cours 4 - 4 décembre 2024 : <a href="/TD2024/Cours 4.pdf">Notes</a></li>
 </ul>
 
 <h3>Feuilles d'exercices</h3>
@@ -54,6 +55,7 @@ L'évaluation aura lieu durant le second semestre, à l'issue des cours et des T
   <li>TD 2 - 15 novembre 2024 : <a href="/TD2024/TD 2.pdf">Sujet</a>, <a href="/TD2024/TD 2 - solution.pdf">Corrigé</a></li>
   <li>TD 3 - 22 novembre 2024 : <a href="/TD2024/TD 3.pdf">Sujet</a>, Corrigé</li>
   <li>/!\ Attention, pas de TD le 29 novembre !</li>
+  <li>TD 4 - 6 décembre 2024 : <a href="/TD2024/TD 4.pdf">Sujet</a>, Corrigé</li>
 </ul>
 
 
