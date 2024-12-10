@@ -30,7 +30,10 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2024). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>. Accepted in <b>Forum of Mathematics, Sigma</b>. Preprint: <a href="https://arxiv.org/abs/2201.05886">https://arxiv.org/abs/2201.05886</a>
+    Thibaut Lemoine, Mylène Maïda (2024). <a href="https://arxiv.org/abs/2405.08393">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. Accepted in <b>Annals of Probability</b>.
+  </li>
+  <li>
+    Antoine Dahlqvist, Thibaut Lemoine (2024). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>. Accepted in <b>Forum of Mathematics, Sigma</b>.
   </li>
   <li>
     Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. <b>Probability and Mathematical Physics</b>, No. 4, 849–890. Preprint: <a href="https://arxiv.org/abs/2201.05882">https://arxiv.org/abs/2201.05882</a>
