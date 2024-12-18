@@ -30,7 +30,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Thibaut Lemoine, Mylène Maïda (2024). <a href="https://arxiv.org/abs/2405.08393">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. Accepted in <a href="https://imstat.org/journals-and-publications/annals-of-probability/annals-of-probability-future-papers/">Annals of Probability</a>.
+    Thibaut Lemoine, Mylène Maïda (2024). <a href="https://arxiv.org/abs/2405.08393">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <a href="https://imstat.org/journals-and-publications/annals-of-probability/annals-of-probability-future-papers/">Accepted</a> in <b>Annals of Probability</b>.
   </li>
   <li>
     Antoine Dahlqvist, Thibaut Lemoine (2024). <a href="https://arxiv.org/abs/2201.05886">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field</a>. Accepted in <b>Forum of Mathematics, Sigma</b>.
