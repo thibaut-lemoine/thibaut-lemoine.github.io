@@ -46,6 +46,8 @@ L'évaluation aura lieu durant le second semestre, à l'issue des cours et des T
   <li>Cours 3 - 20 novembre 2024 : <a href="/TD2024/Cours 3.pdf">Notes</a></li>
   <li>/!\ Attention, pas de cours le 27 novembre !</li>
   <li>Cours 4 - 4 décembre 2024 : <a href="/TD2024/Cours 4.pdf">Notes</a></li>
+  <li>Cours 5 - 11 décembre 2024 : <a href="/TD2024/Cours 5.pdf">Notes</a></li>
+  <li>Cours 6 - 18 décembre 2024 : <b>Pas de notes.</b></li>
 </ul>
 
 <h3>Feuilles d'exercices</h3>
