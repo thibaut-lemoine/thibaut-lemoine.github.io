@@ -60,7 +60,13 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
     3rd February 2025: <a href="https://louisioos.github.io/liens.html">Seminar of geometry and dynamics</a>, AGM, CY Cergy-Paris Université. TBA.
   </li>
   <li>
+    13th February 2025: Analysis seminar, IRMA, Université de Strasbourg. TBA.
+  </li>
+  <li>
     31st March 2025: <a href="https://indico.math.cnrs.fr/event/13237/">PIICQ monthly seminar</a> (remote). TBA.
+  </li>
+  <li>
+    9th-13th June 2025: < a href="https://cortipom25.sciencesconf.org/?lang=fr">Closing conference of the ANR CORTIPOM</a>, Le Croisic. TBA.
   </li>
   
 </ul>
