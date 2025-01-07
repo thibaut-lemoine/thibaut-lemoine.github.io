@@ -48,10 +48,10 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-    23rd January 2025: <a href="https://dev-iecl.univ-lorraine.fr/evenements/seminaires/seminaire-probabilites-et-statistique/">Probability and Statistics seminar</a>, IECL, Université de Nancy. TBA.
+    23rd January 2025: <a href="https://dev-iecl.univ-lorraine.fr/evenements/seminaires/seminaire-probabilites-et-statistique/">Probability and Statistics seminar</a>, IECL, Université de Nancy. Title: "partitions aléatoires, intégrales unitaires et nombres de Hurwitz"
   </li>
   <li>
-   27th January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. TBA. 
+   27th January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. Title: "Théorèmes limites pour les ensembles orthogonaux". 
   </li>
   <li>
     28th-29th January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
