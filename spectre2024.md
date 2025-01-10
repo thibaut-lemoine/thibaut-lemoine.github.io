@@ -47,7 +47,7 @@ L'évaluation aura lieu durant le second semestre, à l'issue des cours et des T
   <li>/!\ Attention, pas de cours le 27 novembre !</li>
   <li>Cours 4 - 4 décembre 2024 : <a href="/TD2024/Cours 4.pdf">Notes</a></li>
   <li>Cours 5 - 11 décembre 2024 : <a href="/TD2024/Cours 5.pdf">Notes</a></li>
-  <li>Cours 6 - 18 décembre 2024 : <a href="/TD2024/Cours 6.pdf">Notes (prises par Stéphane Nonnenmacher)</a></li>
+  <li>Cours 6 - 18 décembre 2024 : <a href="/TD2024/Cours 6.pdf">Notes</a> (prises par Stéphane Nonnenmacher)</li>
   <li>Cours 7 - 8 janvier 2025 : <a href="/TD2024/Cours 7.pdf">Notes</a></li>
   <li>Cours 8 - 15 janvier 2025 : Notes</li>
   <li>Cours 9 - 22 janvier 2025 : Notes</li>
