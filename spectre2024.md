@@ -63,7 +63,7 @@ L'évaluation aura lieu durant le second semestre, à l'issue des cours et des T
   <li>TD 4 - 6 décembre 2024 : <a href="/TD2024/TD 4.pdf">Sujet</a>, Corrigé</li>
   <li>TD 5 - 13 décembre 2024 : <a href="/TD2024/TD 5.pdf">Sujet</a>, <a href="/TD2024/TD 5 - solution.pdf">Corrigé</a></li>
   <li>TD 6 - 20 décembre 2024 : <a href="/TD2024/TD 6.pdf">Sujet</a>, Corrigé</li>
-  <li>TD 7 - 10 janvier 2025 : Sujet, Corrigé</li>
+  <li>TD 7 - 10 janvier 2025 : <a href="/TD2024/TD 7.pdf">Sujet</a>, Corrigé</li>
   <li>TD 8 - 17 janvier 2025 : Sujet, Corrigé</li>
   <li>TD 9 - 24 janvier 2025 : Sujet, Corrigé</li>
 </ul>
