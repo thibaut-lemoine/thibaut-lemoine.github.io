@@ -60,7 +60,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
     13th February 2025: Analysis seminar, IRMA, Université de Strasbourg. TBA.
   </li>
   <li>
-    14th March 2025: <a href="https://www.idpoisson.fr/agenda/?type=S%C3%A9minaire%20SPACE%20Tours">SPACE seminar, IDP, Université de Tours</a>
+    14th March 2025: <a href="https://www.idpoisson.fr/agenda/?type=S%C3%A9minaire%20SPACE%20Tours">SPACE seminar</a>, IDP, Université de Tours. TBA
   </li>
   <li>
     31st March 2025: <a href="https://indico.math.cnrs.fr/event/13237/">PIICQ monthly seminar</a> (remote). TBA.
