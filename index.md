@@ -48,13 +48,10 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-   27th January 2025: <a href="https://probas.math.ens.psl.eu/doku.php/start">Informal probability seminar</a>, Ecole Normale Supérieure, Paris. Title: "Théorèmes limites pour les ensembles orthogonaux". 
-  </li>
-  <li>
     28th-29th January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
   </li>
   <li>
-    3rd February 2025: <a href="https://louisioos.github.io/liens.html">Seminar of geometry and dynamics</a>, AGM, CY Cergy-Paris Université. TBA.
+    3rd February 2025: <a href="https://louisioos.github.io/liens.html">Seminar of geometry and dynamics</a>, AGM, CY Cergy-Paris Université. Talk on large N aspects of 2d Yang-Mills measure.
   </li>
   <li>
     13th February 2025: Analysis seminar, IRMA, Université de Strasbourg. TBA.
