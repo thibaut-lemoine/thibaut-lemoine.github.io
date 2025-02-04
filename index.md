@@ -48,12 +48,6 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-    28th-29th January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
-  </li>
-  <li>
-    3rd February 2025: <a href="https://louisioos.github.io/liens.html">Seminar of geometry and dynamics</a>, AGM, CY Cergy-Paris Université. Talk on large N aspects of 2d Yang-Mills measure.
-  </li>
-  <li>
     13th February 2025: Analysis seminar, IRMA, Université de Strasbourg. TBA.
   </li>
   <li>
@@ -72,10 +66,13 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-    Organisation of a group work on gauge theory and random surfaces. See the corresponding <a href="/gt_2023.html">page</a> (in French)
+    28th-29th January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
   </li>
   <li>
-    Organisation of the conference QHETPS in Strasbourg from June 20th to 24th, 2022, and creation of its <a href="https://qhetps.pages.math.unistra.fr/">website</a>
+    2023-2024: Organisation of a group work on gauge theory and random surfaces. See the corresponding <a href="/gt_2023.html">page</a> (in French)
+  </li>
+  <li>
+    20th-24th June 2022: co-organisation of the conference QHETPS in Strasbourg from June 20th to 24th, 2022, and creation of its <a href="https://qhetps.pages.math.unistra.fr/">website</a>
   </li>
 </ul>
 
