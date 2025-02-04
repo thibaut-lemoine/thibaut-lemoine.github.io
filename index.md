@@ -66,10 +66,10 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-    28th-29th January 2025: Co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
+    28th-29th January 2025: co-organisation of the colloquium <a href="https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications">"Géométries aléatoires et applications"</a> at Collège de France.
   </li>
   <li>
-    2023-2024: Organisation of a group work on gauge theory and random surfaces. See the corresponding <a href="/gt_2023.html">page</a> (in French)
+    2023-2024: organisation of a group work on gauge theory and random surfaces. See the corresponding <a href="/gt_2023.html">page</a> (in French)
   </li>
   <li>
     20th-24th June 2022: co-organisation of the conference QHETPS in Strasbourg from June 20th to 24th, 2022, and creation of its <a href="https://qhetps.pages.math.unistra.fr/">website</a>
