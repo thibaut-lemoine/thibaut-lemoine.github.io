@@ -48,7 +48,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-    13th February 2025: Analysis seminar, IRMA, Université de Strasbourg. TBA.
+    13th February 2025: <a href="https://irma.math.unistra.fr/seminaires/seminaire-analyse.html">Analysis seminar</a>, IRMA, Université de Strasbourg. Talk on asymptotic expansions of Yang-Mills partition functions.
   </li>
   <li>
     14th March 2025: <a href="https://www.idpoisson.fr/agenda/?type=S%C3%A9minaire%20SPACE%20Tours">SPACE seminar</a>, IDP, Université de Tours. TBA
