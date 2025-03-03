@@ -25,7 +25,7 @@ permalink: /teaching.html
 <li>2024-2025 :</li>
   <ul>
   <li>Tutor for the course <a href="https://www.math.ens.psl.eu/formations/analyse-des-edp/">"Spectre des surfaces hyperboliques aléatoires"</a> (M1) at Collège de France (also open to M2 students from the <a href="https://master-math-fonda.imj-prg.fr/index.php">Master of Fundamental Mathematics</a> shared between Sorbonne Université, Université de Paris-Cité and Université Sorbonne Paris-Nord). See the dedicated <a href="/spectre2024.html">page</a> (in French) for more details.</li>
-  <li>Lecturer for the course <a href="https://www.math.ens.psl.eu/formations/construction-et-etude-asymptotique-de-la-mesure-de-yang-mills-en-deux-dimensions/">"Construction et étude asymptotique de la mesure de Yang-Mills en deux dimensions"</a> (M1)</li>
+  <li>Lecturer for the course <a href="https://www.math.ens.psl.eu/formations/construction-et-etude-asymptotique-de-la-mesure-de-yang-mills-en-deux-dimensions/">"Construction et étude asymptotique de la mesure de Yang-Mills en deux dimensions"</a> (M1). See the dedicated <a href="/YM2025.html">page</a> (in French) for more details.</li>
   </ul>
 </ul>
 
