@@ -30,6 +30,9 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
+    Thibaut Lemoine (2025). <a href="https://arxiv.org/abs/2303.11286">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. Accepted in <b>Probability Theory and Related Fields</b>.
+  </li>
+  <li>
     Thibaut Lemoine, Mylène Maïda (2025). <a href="https://arxiv.org/abs/2405.08393">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <a href="https://imstat.org/journals-and-publications/annals-of-probability/annals-of-probability-future-papers/">Accepted</a> in <b>Annals of Probability</b>.
   </li>
   <li>
@@ -48,9 +51,6 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 <ul>
   <li>
     Thibaut Lemoine, Rémi Bardenet (2024). <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
-  </li>
-  <li>
-    Thibaut Lemoine (2023). <a href="https://arxiv.org/abs/2303.11286">Almost flat highest weights and application to Wilson loops on compact surfaces</a>
   </li>
   <li>
     Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes associated with Bergman kernels: construction and limit theorems</a>
