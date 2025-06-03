@@ -30,7 +30,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Thibaut Lemoine (2025). <a href="https://arxiv.org/abs/2303.11286">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. Accepted in <b>Probability Theory and Related Fields</b>.
+    Thibaut Lemoine (2025). <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first. Preprint: <a href="https://arxiv.org/abs/2303.11286">https://arxiv.org/abs/2303.11286</a>.
   </li>
   <li>
     Thibaut Lemoine, Mylène Maïda (2025). <a href="https://arxiv.org/abs/2405.08393">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <a href="https://imstat.org/journals-and-publications/annals-of-probability/annals-of-probability-future-papers/">Accepted</a> in <b>Annals of Probability</b>.
