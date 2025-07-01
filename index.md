@@ -27,7 +27,7 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 <h3>About Me</h3>
 
 <p>
-I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, for the chair of Spectral Geometry of <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
+I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, for the chair of Spectral Geometry of <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>. As of September 1st, 2025, I will start a position as Maître de Conférences (Associate Professor) at University of Strasbourg, in IRMA (Institut de Recherche Mathématique Avancée). A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
 </p>
 
 <h3>Previous positions</h3>
