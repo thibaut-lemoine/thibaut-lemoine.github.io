@@ -74,10 +74,10 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 <div class="contact">
 <ul>
   <li>
-    Office: Collège de France - Site d'Ulm, Bureau 111, 3, rue d'Ulm, 75005 Paris
+    Office:
   </li>
   <li>
-    Email: thibaut.lemoine((AT))math.unistra.fr
+    Email: thibaut.lemoine((AT))unistra.fr
   </li>
 </ul>
   
