@@ -27,12 +27,14 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 <h3>About Me</h3>
 
 <p>
-I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, for the chair of Spectral Geometry of <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>. As of September 1st, 2025, I will start a position as Maître de Conférences (Associate Professor) at University of Strasbourg, in IRMA (Institut de Recherche Mathématique Avancée). A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
+I am Maître de Conférences (Associate professor) at University of Strasbourg, in the Analysis team of IRMA. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
 </p>
 
 <h3>Previous positions</h3>
 
 <ul>
+  <li>
+    2024-2025: Ingénieur-Chercheur at Collège de France. Supervisor: <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>.
   <li>
    2022-2024: Postdoc at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL). Supervisor: <a href="https://rbardenet.github.io/">Rémi Bardenet</a>.
   </li>
@@ -48,7 +50,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
 
 <ul>
   <li>
-    9th-13th June 2025: <a href="https://cortipom25.sciencesconf.org/?lang=fr">Closing conference of the ANR CORTIPOM</a>, Le Croisic. TBA.
+    TBA.
   </li>
   
 </ul>
@@ -75,7 +77,7 @@ I am a scientific collaborator ("Ingénieur-Chercheur") at Collège de France, f
     Office: Collège de France - Site d'Ulm, Bureau 111, 3, rue d'Ulm, 75005 Paris
   </li>
   <li>
-    Email: thibaut.lemoine((AT))college-de-france.fr
+    Email: thibaut.lemoine((AT))math.unistra.fr
   </li>
 </ul>
   
