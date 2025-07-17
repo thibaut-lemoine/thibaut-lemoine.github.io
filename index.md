@@ -35,6 +35,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 <ul>
   <li>
     2024-2025: Ingénieur-Chercheur at Collège de France. Supervisor: <a href="https://irma.math.unistra.fr/~anantharaman/">Nalini Anantharaman</a>.
+  </li>
   <li>
    2022-2024: Postdoc at Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL). Supervisor: <a href="https://rbardenet.github.io/">Rémi Bardenet</a>.
   </li>
@@ -69,7 +70,6 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
   </li>
 </ul>
 
-</div>
 
 <h3>Contact</h3>
 
@@ -83,6 +83,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
   </li>
 </ul>
   
+</div>
 </div>
 
 </body>
