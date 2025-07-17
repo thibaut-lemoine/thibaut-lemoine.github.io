@@ -69,6 +69,8 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
   </li>
 </ul>
 
+</div>
+
 <h3>Contact</h3>
 
 <div class="contact">
@@ -81,7 +83,6 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
   </li>
 </ul>
   
-</div>
 </div>
 
 </body>
