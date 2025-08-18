@@ -50,6 +50,9 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
+    Thibaut Lemoine (2025). Two-dimensional Yang-Mills theory via integrable probability (<b>Soon</b>)
+  </li>
+  <li>
     Thibaut Lemoine, Rémi Bardenet (2024). <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
   </li>
   <li>
@@ -64,3 +67,4 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 </p>
 
 </div>
+
