@@ -51,7 +51,10 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 
 <ul>
   <li>
-    TBA.
+    September 9, 2025: Stochastic calculus seminar, Université de Strasbourg. Talk about two-dimensional Yang-Mills theory
+  </li>
+  <li>
+    November 12-14, 2025: Workshop of the ANR Louccoum, Université de Poitiers. TBA.
   </li>
   
 </ul>
@@ -87,3 +90,4 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 </div>
 
 </body>
+
