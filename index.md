@@ -51,9 +51,6 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 
 <ul>
   <li>
-    September 9, 2025: Stochastic calculus seminar, Université de Strasbourg. Talk about two-dimensional Yang-Mills theory
-  </li>
-  <li>
     November 12-14, 2025: Workshop of the ANR Louccoum, Université de Poitiers. TBA.
   </li>
   
@@ -79,7 +76,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 <div class="contact">
 <ul>
   <li>
-    Office:
+    Address: Institut de Recherche Mathématique Avancée, 7 rue René Descartes, 67000 Strasbourg, office 307.
   </li>
   <li>
     Email: thibaut.lemoine((AT))unistra.fr
@@ -90,4 +87,5 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 </div>
 
 </body>
+
 
