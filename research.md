@@ -33,7 +33,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
     Thibaut Lemoine (2025). <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first. Preprint: <a href="https://arxiv.org/abs/2303.11286">https://arxiv.org/abs/2303.11286</a>.
   </li>
   <li>
-    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://doi.org/10.1214/24-AOP1749">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. Annals of Probability Probab 53 (5) 1738 - 1763. Preprint: <a href="https://arxiv.org/abs/2405.08393">https://arxiv.org/abs/2405.08393</a>
+    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://doi.org/10.1214/24-AOP1749">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. Annals of Probability 53 (5) 1738 - 1763. Preprint: <a href="https://arxiv.org/abs/2405.08393">https://arxiv.org/abs/2405.08393</a>
   <li>
     Antoine Dahlqvist, Thibaut Lemoine (2025). <a href="https://doi.org/10.1017/fms.2024.152">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and the planar master field</a>. <b>Forum of Mathematics, Sigma</b>, Volume 13, e17. Preprint: <a href="https://arxiv.org/abs/2201.05886">https://arxiv.org/abs/2201.05886</a>
   </li>
@@ -66,6 +66,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 </p>
 
 </div>
+
 
 
 
