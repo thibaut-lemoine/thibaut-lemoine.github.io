@@ -53,6 +53,9 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
   <li>
     November 12-14, 2025: Workshop of the ANR Louccoum, Université de Poitiers. TBA.
   </li>
+  <li>
+    November 21, 2025: MEGA seminar, Institut Henri Poincaré (Paris). TBA.
+  </li>
   
 </ul>
 
@@ -87,6 +90,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 </div>
 
 </body>
+
 
 
 
