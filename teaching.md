@@ -19,6 +19,20 @@ permalink: /teaching.html
 
 <h2>Teaching</h2>
 
+<h3>Université de Strasbourg</h3>
+
+<ul>
+<li>2025-2026 :</li>
+  <ul>
+    <li>
+      Bases de la géométrie différentielle (L3 Mathématiques fondamentales, in French).
+    </li>
+    <li>
+      Analyse, continuité et différentiabilité en dimension finie (L2 Mathématiques, in French).
+    </li>
+  </ul>
+</ul>
+
 <h3>Ecole Normale Supérieure - PSL</h3>
 
 <ul>
@@ -63,3 +77,4 @@ permalink: /teaching.html
 </ul>
 
 </div>
+
