@@ -79,7 +79,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 <div class="contact">
 <ul>
   <li>
-    Address: Institut de Recherche Mathématique Avancée, 7 rue René Descartes, 67000 Strasbourg, office 307.
+    Address: Institut de Recherche Mathématique Avancée, 7 rue René Descartes, 67000 Strasbourg, office i307.
   </li>
   <li>
     Email: thibaut.lemoine((AT))unistra.fr // thibaut.lemoine((AT))math.unistra.fr
@@ -90,6 +90,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 </div>
 
 </body>
+
 
 
 
