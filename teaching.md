@@ -25,7 +25,7 @@ permalink: /teaching.html
 <li>2025-2026 :</li>
   <ul>
     <li>
-      Bases de la géométrie différentielle (L3 Mathématiques fondamentales, in French).
+      Bases de la géométrie différentielle (L3 Mathématiques fondamentales, in French). CC1 : <a href="/TD2025/Geodiff-CC1.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC1-corr.pdf">Corrigé</a>.
     </li>
     <li>
       Analyse, continuité et différentiabilité en dimension finie (L2 Mathématiques, in French).
@@ -77,4 +77,5 @@ permalink: /teaching.html
 </ul>
 
 </div>
+
 
