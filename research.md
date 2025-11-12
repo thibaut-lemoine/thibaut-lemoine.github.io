@@ -50,6 +50,9 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
+    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://arxiv.org/abs/2511.08288">The central heat trace on large compact classical groups</a>
+  </li>
+  <li>
     Thibaut Lemoine (2025). <a href="https://arxiv.org/abs/2508.16162">Two-dimensional Yang-Mills theory via integrable probability</a>
   </li>
   <li>
@@ -67,6 +70,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 </p>
 
 </div>
+
 
 
 
