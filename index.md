@@ -51,12 +51,8 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 
 <ul>
   <li>
-    November 12-14, 2025: <a href="https://vferay.perso.math.cnrs.fr/WorkshopPoitiers25/Louccoum_Poitiers.html">Workshop</a> of the ANR Louccoum, Université de Poitiers. Talk about asymptotic spectral theory on the unitary group.
+    TBA.
   </li>
-  <li>
-    November 21, 2025: <a href="https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire">MEGA seminar</a>, Institut Henri Poincaré (Paris). TBA.
-  </li>
-  
 </ul>
 
 <h3>Past Activities</h3>
@@ -90,6 +86,7 @@ I am Maître de Conférences (Associate professor) at University of Strasbourg, 
 </div>
 
 </body>
+
 
 
 
