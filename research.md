@@ -30,22 +30,22 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Thibaut Lemoine (2026). Two-dimensional Yang-Mills theory via integrable probability. <a href="https://www.ams.org/cgi-bin/mstrack/accepted_papers/bull?active=press">To appear</a> in <b>Bulletin of the American Mathematical Society</b>. Preprint: <a href="https://arxiv.org/abs/2508.16162">https://arxiv.org/abs/2508.16162</a>
+    Thibaut Lemoine (2026). Two-dimensional Yang-Mills theory via integrable probability. <a href="https://www.ams.org/cgi-bin/mstrack/accepted_papers/bull?active=press">To appear</a> in <b>Bulletin of the American Mathematical Society</b>. (<a href="https://arxiv.org/abs/2508.16162">Preprint</a>)
   </li>
   <li>
-    Thibaut Lemoine (2025). <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first. Preprint: <a href="https://arxiv.org/abs/2303.11286">https://arxiv.org/abs/2303.11286</a>.
+    Thibaut Lemoine (2025). <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first. (<a href="https://arxiv.org/abs/2303.11286">Preprint</a>)
   </li>
   <li>
-    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://doi.org/10.1214/24-AOP1749">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <b>Annals of Probability</b> 53 (5) 1738 - 1763. Preprint: <a href="https://arxiv.org/abs/2405.08393">https://arxiv.org/abs/2405.08393</a>
+    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://doi.org/10.1214/24-AOP1749">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <b>Annals of Probability</b> 53 (5) 1738 - 1763. (<a href="https://arxiv.org/abs/2405.08393">Preprint</a>)
   </li>
   <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2025). <a href="https://doi.org/10.1017/fms.2024.152">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and the planar master field</a>. <b>Forum of Mathematics, Sigma</b>, Volume 13, e17. Preprint: <a href="https://arxiv.org/abs/2201.05886">https://arxiv.org/abs/2201.05886</a>
+    Antoine Dahlqvist, Thibaut Lemoine (2025). <a href="https://doi.org/10.1017/fms.2024.152">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and the planar master field</a>. <b>Forum of Mathematics, Sigma</b>, Volume 13, e17. (<a href="https://arxiv.org/abs/2201.05886">Preprint</a>)
   </li>
   <li>
-    Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. <b>Probability and Mathematical Physics</b>, No. 4, 849–890. Preprint: <a href="https://arxiv.org/abs/2201.05882">https://arxiv.org/abs/2201.05882</a>
+    Antoine Dahlqvist, Thibaut Lemoine (2023) <a href="https://msp.org/pmp/2023/4-4/p03.xhtml">Large N limit of Yang-Mills partition function and Wilson loops on compact surfaces</a>. <b>Probability and Mathematical Physics</b>, No. 4, 849–890. (<a href="https://arxiv.org/abs/2201.05882">Preprint</a>)
   </li>
   <li>
-    Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165. Preprint: <a href="https://arxiv.org/abs/1911.07010">https://arxiv.org/abs/1911.07010</a>
+    Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165. (<a href="https://arxiv.org/abs/1911.07010">Preprint</a>)
   </li>
 </ul>
 
@@ -70,6 +70,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 </p>
 
 </div>
+
 
 
 
