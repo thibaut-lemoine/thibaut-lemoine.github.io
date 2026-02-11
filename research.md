@@ -30,7 +30,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Thibaut Lemoine (2026). <a href="https://arxiv.org/abs/2508.16162">Two-dimensional Yang-Mills theory via integrable probability</a>. To appear in <b>Bulletin of the American Mathematical Society</b>.
+    Thibaut Lemoine (2026). Two-dimensional Yang-Mills theory via integrable probability. <a href="https://www.ams.org/cgi-bin/mstrack/accepted_papers/bull?active=press">To appear</a> in <b>Bulletin of the American Mathematical Society</b>. Preprint: <a href="https://arxiv.org/abs/2508.16162">https://arxiv.org/abs/2508.16162</a>
   </li>
   <li>
     Thibaut Lemoine (2025). <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first. Preprint: <a href="https://arxiv.org/abs/2303.11286">https://arxiv.org/abs/2303.11286</a>.
@@ -70,6 +70,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 </p>
 
 </div>
+
 
 
 
