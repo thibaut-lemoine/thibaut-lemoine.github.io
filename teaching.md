@@ -25,11 +25,18 @@ permalink: /teaching.html
 <li>2025-2026 :</li>
   <ul>
     <li>
-      Bases de la géométrie différentielle (L3 Mathématiques fondamentales, in French). CC1 : <a href="/TD2025/Geodiff-CC1.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC1-corr.pdf">Corrigé</a>, CC2 : <a href="/TD2025/Geodiff-CC2.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC2-corr.pdf">Corrigé</a>, CC3 : <a href="/TD2025/geodiff-CC3.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC3-corr.pdf">Corrigé</a>. <a href="/TD2025/Synthese-geodiff-2025.pdf">Synthèse</a> de cours (mise à jour : 09/12/2025).
+      TD du cours "Bases de la géométrie différentielle" (L3 Mathématiques fondamentales). CC1 : <a href="/TD2025/Geodiff-CC1.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC1-corr.pdf">Corrigé</a>, CC2 : <a href="/TD2025/Geodiff-CC2.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC2-corr.pdf">Corrigé</a>, CC3 : <a href="/TD2025/geodiff-CC3.pdf">Sujet</a>, <a href="/TD2025/Geodiff-CC3-corr.pdf">Corrigé</a>. <a href="/TD2025/Synthese-geodiff-2025.pdf">Synthèse</a> de cours (mise à jour : 09/12/2025).
     </li>
     <li>
-      Analyse, continuité et différentiabilité en dimension finie (L2 Mathématiques, in French).
+      TD du cours "Analyse, continuité et différentiabilité en dimension finie" (L2 Mathématiques).
     </li>
+    <li>
+      TD du cours "Probabilités S4" (L2 Mathématiques).
+    </li>
+    <li>
+      CM et TD du cours "Probabilités et Statistique 1" (L2 Informatique).
+    </li>
+    
   </ul>
 </ul>
 
@@ -38,8 +45,8 @@ permalink: /teaching.html
 <ul>
 <li>2024-2025 :</li>
   <ul>
-  <li>Tutor for the course "Spectre des surfaces hyperboliques aléatoires" (M1) at Collège de France (also open to M2 students from the <a href="https://master-math-fonda.imj-prg.fr/index.php">Master of Fundamental Mathematics</a> shared between Sorbonne Université, Université de Paris-Cité and Université Sorbonne Paris-Nord). See the dedicated <a href="/spectre2024.html">page</a> (in French) for more details.</li>
-  <li>Lecturer for the course "Construction et étude asymptotique de la mesure de Yang-Mills en deux dimensions" (M1). See the dedicated <a href="/YM2025.html">page</a> (in French) for more details.</li>
+  <li>TD du cours "Spectre des surfaces hyperboliques aléatoires" (M1) au Collège de France (aussi ouvert au M2 Math Fonda partagé entre Sorbonne Université, Université de Paris-Cité et Université Sorbonne Paris-Nord). Voir la <a href="/spectre2024.html">page</a> pour plus de détails.</li>
+  <li>Master Class "Construction et étude asymptotique de la mesure de Yang-Mills en deux dimensions" (M1). Voir la <a href="/YM2025.html">page</a> pour plus de détails.</li>
   </ul>
 </ul>
 
@@ -48,22 +55,22 @@ permalink: /teaching.html
 <ul>
 <li>2019-2020 :</li>
   <ul>
-  <li>Tutor in Probability (L3) - one will find <a href="/Synthese_Cours_290.pdf">here</a> (in French) a small summary of the course</li>
-  <li>Tutor in Mathematics for Licence 1 (L1)</li>
+  <li>TD du cours "Probabilité" (L3) - une synthèse de cours est disponible <a href="/Synthese_Cours_290.pdf">ici</a>.</li>
+  <li>TD du cours "Mathématiques pour la L1" (L1)</li>
   </ul>
 </ul>
 
 <ul>
 <li>2016-2019 :</li>
   <ul>
-  <li>Tutor in C++ for Mathematics (M1)</li>
+  <li>TP du cours "C++ pour mathématiciens" (M1)</li>
   </ul>
 </ul>
 
 <ul>
 <li>2016-2018 :</li>
   <ul>
-  <li>Tutor of Multivariable analysis (L2, Polytech' Sorbonne)</li>
+  <li>TD du cours "Calcul différentiel à plusieurs variables et intégrales multiples" (L2, Polytech' Sorbonne)</li>
   </ul>
 </ul>
 
@@ -72,11 +79,12 @@ permalink: /teaching.html
 <ul>
 <li>2019-2020 :</li>
   <ul>
-  <li>Tutor in Integration and Probability (1st Year)</li>
+  <li>TD du cours "Intégration et probabilité" (1re année)</li>
   </ul>
 </ul>
 
 </div>
+
 
 
 
