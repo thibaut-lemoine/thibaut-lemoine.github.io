@@ -28,7 +28,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <h3>Publications</h3> 
 
-<ul>
+<ol reversed>
   <li>
     Thibaut Lemoine (2026). Two-dimensional Yang-Mills theory via integrable probability. <a href="https://www.ams.org/cgi-bin/mstrack/accepted_papers/bull?active=press">To appear</a> in <b>Bulletin of the American Mathematical Society</b>. (<a href="https://arxiv.org/abs/2508.16162">Preprint</a>)
   </li>
@@ -47,7 +47,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
   <li>
     Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165. (<a href="https://arxiv.org/abs/1911.07010">Preprint</a>)
   </li>
-</ul>
+</ol>
 
 <h3>Preprints</h3>
 
@@ -70,6 +70,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 </p>
 
 </div>
+
 
 
 
