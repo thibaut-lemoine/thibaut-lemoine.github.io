@@ -34,7 +34,7 @@ permalink: /teaching.html
       TD du cours "Probabilités S4" (L2 Mathématiques).
     </li>
     <li>
-      CM et TD du cours "Probabilités et Statistique 1" (L2 Informatique).
+      CM et TD du cours "Probabilités et Statistique 1" (L2 Informatique). <a href="/TD2025/chapitre 4 - beamer.pdf">Slides</a>  du dernier cours.
     </li>
     
   </ul>
@@ -84,6 +84,7 @@ permalink: /teaching.html
 </ul>
 
 </div>
+
 
 
 
