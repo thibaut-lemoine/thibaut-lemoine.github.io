@@ -17,7 +17,7 @@ permalink: /teaching.html
 
 <div class="content">
 
-<h2>Teaching</h2>
+<h2>Teaching/Enseignement</h2>
 
 <h3>Université de Strasbourg</h3>
 
@@ -84,6 +84,7 @@ permalink: /teaching.html
 </ul>
 
 </div>
+
 
 
 
