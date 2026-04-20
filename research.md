@@ -53,6 +53,9 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
+    Thibaut Lemoine (2026). <a href="https://arxiv.org/abs/2604.16252">Universal dualities for Wilson loops in lattice Yang-Mills</a>
+  </li>
+  <li>
     Thibaut Lemoine, Mylène Maïda (2025). <a href="https://arxiv.org/abs/2511.08288">The central heat trace on large compact classical groups</a>
   </li>
   <li>
