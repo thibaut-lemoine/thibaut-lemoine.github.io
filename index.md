@@ -31,7 +31,7 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
   </div>
 
   <div>
-    <h3>About Me</h2>
+    <h3>About Me</h3>
     <p>
  I am Maître de Conférences (Associate professor) at Université de Strasbourg, working at <a href="https://irma.math.unistra.fr/">Institut de Recherche Mathématique avancée</a> (IRMA), as part of the Analysis team. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
 </p>
