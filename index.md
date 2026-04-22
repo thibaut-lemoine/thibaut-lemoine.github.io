@@ -27,7 +27,7 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 <div style="display: flex; gap: 24px; align-items: center;">
 
   <div>
-    <img src="photo_TL2.jpg" alt="Logo" width="150">
+    <img src="photo_TL2.jpg" alt="Logo" width="300">
   </div>
 
   <div>
