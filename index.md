@@ -63,7 +63,10 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 
 <ul>
   <li>
-    TBA.
+    May 5th: <a href="https://indico.math.cnrs.fr/event/16019/">Talk</a> at Institut Mathématique de Toulouse.
+  </li>
+  <li>
+    May 6th: <a href="https://math.bit.edu.cn/kyxs/xsbg/3f5809dd6633420e9645f656b10f2e26.htm">Talk</a> at the Webinar on Stochastic analysis (online) at Beijing Institute of Technology.
   </li>
 </ul>
 
