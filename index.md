@@ -24,13 +24,18 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 
 <h2>Personal Webpage of Thibaut Lemoine</h2>
 
-<h3>About Me</h3>
+<div style="display: flex; gap: 24px; align-items: center;">
 
-<p>
-I am Maître de Conférences (Associate professor) at Université de Strasbourg, working at <a href="https://irma.math.unistra.fr/">Institut de Recherche Mathématique avancée</a> (IRMA), as part of the Analysis team. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
+  <div>
+    <img src="photo_TL2.jpg" alt="Logo" width="150">
+  </div>
+
+  <div>
+    <h3>About Me</h2>
+    <p>
+ I am Maître de Conférences (Associate professor) at Université de Strasbourg, working at <a href="https://irma.math.unistra.fr/">Institut de Recherche Mathématique avancée</a> (IRMA), as part of the Analysis team. A pdf version of my resume is available <a href="/CV_EN.pdf">here</a>.
 </p>
-
-<h3>Previous positions</h3>
+    <h3>Previous positions</h3>
 
 <ul>
   <li>
@@ -46,6 +51,13 @@ I am Maître de Conférences (Associate professor) at Université de Strasbourg,
     2016-2020: PhD at Laboratoire de Probabilités, Statistique et Modélisation (LPSM) of Sorbonne Université. Supervisor: <a href="https://www.lpsm.paris/users/levyt/index">Thierry Lévy</a>.
   </li>
 </ul>
+  </div>
+
+</div>
+
+
+
+
 
 <h3>Upcoming Events</h3>
 
