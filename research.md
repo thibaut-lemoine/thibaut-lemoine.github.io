@@ -60,7 +60,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
     T.L. <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first (2025). (<a href="https://arxiv.org/abs/2303.11286">Preprint</a>, 2023)
   </li>
   <li>
-    T.L. (2022). <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes on complex manifolds: construction and limit theorems</a> (preprint)
+    T.L. <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes on complex manifolds: construction and limit theorems</a> (preprint, 2022)
   </li>
   <li>
     Antoine Dahlqvist, T.L. <a href="https://doi.org/10.1017/fms.2024.152">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and the planar master field</a>. <b>Forum of Mathematics, Sigma</b>, Volume 13, e17 (2025). (<a href="https://arxiv.org/abs/2201.05886">Preprint</a>, 2022)
