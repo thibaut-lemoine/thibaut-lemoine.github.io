@@ -26,17 +26,32 @@ permalink: /research.html
 
 Two-dimensional gauge theory, random surfaces, integrable probability, determinantal point processes, random matrices, enumerative combinatorics
 
-<h3>Publications</h3> 
+<h3>Papers</h3> 
 
 <ol reversed>
   <li>
+    Thibaut Lemoine (2026). The heat-kernel master field on $\mathbb{Z}^d$ at strong coupling. (soon !)
+  </li>
+  <li>
+    Thibaut Lemoine (2026). <a href="https://arxiv.org/abs/2604.16252">Universal dualities for Wilson loops in lattice Yang-Mills</a>
+  </li>
+  <li>
+    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://arxiv.org/abs/2511.08288">The central heat trace on large compact classical groups</a>
+  </li>
+  <li>
     Thibaut Lemoine (2026). Two-dimensional Yang-Mills theory via integrable probability. <a href="https://www.ams.org/cgi-bin/mstrack/accepted_papers/bull?active=press">To appear</a> in <b>Bulletin of the American Mathematical Society</b>. (<a href="https://arxiv.org/abs/2508.16162">Preprint</a>)
+  </li>
+  <li>
+    Thibaut Lemoine, Rémi Bardenet (2024). <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
+  </li>
+  <li>
+    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://doi.org/10.1214/24-AOP1749">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <b>Annals of Probability</b> 53 (5) 1738 - 1763. (<a href="https://arxiv.org/abs/2405.08393">Preprint</a>)
   </li>
   <li>
     Thibaut Lemoine (2025). <a href="https://link.springer.com/article/10.1007/s00440-025-01388-3">Almost flat highest weights and application to Wilson loops on compact surfaces</a>. <b>Probability Theory and Related Fields</b>, Online first. (<a href="https://arxiv.org/abs/2303.11286">Preprint</a>)
   </li>
   <li>
-    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://doi.org/10.1214/24-AOP1749">Gaussian measure on the dual of U(N), random partitions, and topological expansion of the partition function</a>. <b>Annals of Probability</b> 53 (5) 1738 - 1763. (<a href="https://arxiv.org/abs/2405.08393">Preprint</a>)
+    Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes on complex manifolds: construction and limit theorems</a>
   </li>
   <li>
     Antoine Dahlqvist, Thibaut Lemoine (2025). <a href="https://doi.org/10.1017/fms.2024.152">Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and the planar master field</a>. <b>Forum of Mathematics, Sigma</b>, Volume 13, e17. (<a href="https://arxiv.org/abs/2201.05886">Preprint</a>)
@@ -48,26 +63,6 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
     Thibaut Lemoine (2022). <a href="https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/article/abs/large-n-behaviour-of-the-twodimensional-yangmills-partition-function/68E2F00A42AF7D162D81879A8E80B664">Large N behaviour of the two-dimensional Yang–Mills partition function</a>. <b>Combinatorics, Probability and Computing</b>, Volume 31, Issue 1, pp. 144 - 165. (<a href="https://arxiv.org/abs/1911.07010">Preprint</a>)
   </li>
 </ol>
-
-<h3>Preprints</h3>
-
-<ul>
-  <li>
-    Thibaut Lemoine (2026). The heat-kernel master field on $\mathbb{Z}^d$ at strong coupling. (soon !)
-  </li>
-  <li>
-    Thibaut Lemoine (2026). <a href="https://arxiv.org/abs/2604.16252">Universal dualities for Wilson loops in lattice Yang-Mills</a>
-  </li>
-  <li>
-    Thibaut Lemoine, Mylène Maïda (2025). <a href="https://arxiv.org/abs/2511.08288">The central heat trace on large compact classical groups</a>
-  </li>
-  <li>
-    Thibaut Lemoine, Rémi Bardenet (2024). <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
-  </li>
-  <li>
-    Thibaut Lemoine (2022). <a href="https://arxiv.org/abs/2211.06955">Determinantal point processes associated with Bergman kernels: construction and limit theorems</a>
-  </li>
-</ul>
 
 <h3>PhD Thesis</h3>
 
