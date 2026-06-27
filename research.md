@@ -53,7 +53,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ul>
   <li>
-    Thibaut Lemoine (2026). The heat-kernel master field on $\mathbb{Z}^d at strong coupling$. (soon !)
+    Thibaut Lemoine (2026). The heat-kernel master field on $\mathbb{Z}^d$ at strong coupling. (soon !)
   </li>
   <li>
     Thibaut Lemoine (2026). <a href="https://arxiv.org/abs/2604.16252">Universal dualities for Wilson loops in lattice Yang-Mills</a>
