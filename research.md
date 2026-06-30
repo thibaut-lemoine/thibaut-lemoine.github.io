@@ -39,7 +39,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 
 <ol reversed>
   <li>
-    T.L. The heat-kernel master field on \(\mathbb{Z}^d\) at strong coupling. (soon !)
+    T.L. <a href="https://arxiv.org/abs/2606.28945">The heat-kernel master field on \(\mathbb{Z}^d\) at strong coupling</a> (preprint, 2026)
   </li>
   <li>
     T.L. <a href="https://arxiv.org/abs/2604.16252">Universal dualities for Wilson loops in lattice Yang-Mills</a> (preprint, 2026)
