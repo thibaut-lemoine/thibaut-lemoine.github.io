@@ -80,7 +80,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
   </li>
   <li>
     <div>
-      Thibaut Lemoine, Mylène Maïda. <b>Gaussian measure on the dual of \(U(N)\), random partitions, and topological expansion of the partition function.</b>
+      Thibaut Lemoine, Mylène Maïda. <b>Gaussian measure on the dual of</b> \(\mathrm{U}(N)\)<b>, random partitions, and topological expansion of the partition function.</b>
     </div>
     <div>
       <a href="https://doi.org/10.1214/24-AOP1749">Published</a> in <i>Annals of Probability</i> 53 (5) 1738 - 1763 (2025). <a href="https://arxiv.org/abs/2405.08393">Preprint</a>, 2024.
