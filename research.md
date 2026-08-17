@@ -40,7 +40,7 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 <ol reversed>
   <li>
     <div>
-      Thibaut Lemoine. <b>The heat-kernel master field on \(mathbb{Z}^d\) at strong coupling.</b>
+      Thibaut Lemoine. <b>The heat-kernel master field on</b> \(mathbb{Z}^d\) <b>at strong coupling.</b>
     </div>
     <div>
       <a href="https://arxiv.org/abs/2606.28945">Preprint</a>, 2026.
