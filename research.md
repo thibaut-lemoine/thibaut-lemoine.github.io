@@ -40,6 +40,14 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 <ol reversed>
   <li>
     <div>
+      Thibaut Lemoine, Elias Nohra. <b>Universality of two-dimensional Markovian holonomy fields.</b>
+    </div>
+    <div>
+      <a href="https://arxiv.org/abs/2608.15923">Preprint</a>, 2026.
+    </div>
+  </li>
+  <li>
+    <div>
       Thibaut Lemoine. <b>The heat-kernel master field on \(\mathbb{Z}^d\) at strong coupling.</b>
     </div>
     <div>
