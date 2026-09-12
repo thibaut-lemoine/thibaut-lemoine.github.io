@@ -63,7 +63,7 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 
 <ul>
   <li>
-    October 14-16: <a href="https://sites.google.com/site/totatdatmath/yang-mills">Workshop</a> on Yang-Mills theory (Strasbourg).
+    October 14th-16th: <a href="https://sites.google.com/site/totatdatmath/yang-mills">Workshop</a> on Yang-Mills theory (Strasbourg).
   </li>
 </ul>
 
