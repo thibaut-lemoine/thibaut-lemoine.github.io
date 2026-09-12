@@ -63,10 +63,7 @@ tags: [thibaut lemoine, math, mathematics, maths, yang-mills, representation the
 
 <ul>
   <li>
-    May 5th: <a href="https://indico.math.cnrs.fr/event/16019/">Talk</a> at Institut Mathématique de Toulouse.
-  </li>
-  <li>
-    May 6th: <a href="https://math.bit.edu.cn/kyxs/xsbg/3f5809dd6633420e9645f656b10f2e26.htm">Talk</a> at the Webinar on Stochastic analysis (online) at Beijing Institute of Technology.
+    October 14-16: <a href="https://sites.google.com/site/totatdatmath/yang-mills">Workshop</a> on Yang-Mills theory (Strasbourg).
   </li>
 </ul>
 
