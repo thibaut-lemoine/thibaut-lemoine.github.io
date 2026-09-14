@@ -40,6 +40,14 @@ Two-dimensional gauge theory, random surfaces, integrable probability, determina
 <ol reversed>
   <li>
     <div>
+      Thibaut Lemoine. <b>Elliptic \(b\)-Hurwitz theory and Jack heat trace.</b>
+    </div>
+    <div>
+      <a href="https://arxiv.org/abs/2609.12256">Preprint</a>, 2026.
+    </div>
+  </li>
+  <li>
+    <div>
       Thibaut Lemoine, Elias Nohra. <b>Universality of two-dimensional Markovian holonomy fields.</b>
     </div>
     <div>
