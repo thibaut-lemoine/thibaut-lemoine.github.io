@@ -33,7 +33,7 @@ permalink: /research.html
 
 <h3>Interests</h3>
 
-Two-dimensional gauge theory, random surfaces, integrable probability, determinantal point processes, random matrices, enumerative combinatorics
+My primary interest is the study of mathematical aspects of Yang-Mills theory. I am also interested in many related fields: integrable probability, random geometry, random matrices, enumerative combinatorics, moduli spaces.
 
 <h3>Papers</h3> 
 
