@@ -107,7 +107,7 @@ I primarily study mathematical aspects of Yang-Mills theory. I am also intereste
       Thibaut Lemoine. <b>Almost flat highest weights and application to Wilson loops on compact surfaces.</b>
     </div>
     <div>
-      <a href="https://doi.org/10.1214/24-AOP1749">Published</a> in <i>Probability Theory and Related Fields</i> (2025). <a href="https://arxiv.org/abs/2303.11286">Preprint</a>, 2023.
+      <a href="https://doi.org/10.1007/s00440-025-01388-3">Published</a> in <i>Probability Theory and Related Fields</i> (2025). <a href="https://arxiv.org/abs/2303.11286">Preprint</a>, 2023.
     </div>
   </li>
   <li>
